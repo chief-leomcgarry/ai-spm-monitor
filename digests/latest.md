@@ -1,69 +1,81 @@
-# AI-SPM Competitor Digest — 2026-10-27  
+# AI-SPM Competitor Digest — 2026-10-28  
 
 ## Top of the day  
-Proofpoint’s definitive agreement to acquire Varonis for roughly **$6.3 billion** reshapes the market.  The deal places Varonis’s AI‑agent visibility and least‑privilege enforcement capabilities inside Proofpoint’s broader security portfolio, creating a combined offering that will directly compete with Varonis‑centric pitches to enterprise customers and could accelerate Proofpoint’s push into the AI‑agent blast‑radius space.  
+**CrowdStrike + Nvidia partnership expands AI‑agent security from software to silicon.** This move pushes a major rival down the stack, threatening Varonis’s differentiation that hinges on data‑centric visibility and automated least‑privilege enforcement for AI agents.  
 
 ## Events  
 
-### Proofpoint — Acquires Varonis for $6.3 B  
-- **What changed:** Proofpoint announced a definitive agreement to acquire Varonis, bringing Varonis’s data‑security platform—including its AI‑agent visibility and automated least‑privilege controls—under the Proofpoint umbrella.  
-- **Why it matters:** The acquisition folds Varonis’s core “agent blast‑radius” capability into a larger vendor, potentially eroding Varonis‑specific differentiation in the AI‑agent security market and forcing us to reposition our value‑prop against a combined Proofpoint‑Varonis offering.  
-- **Source:** Cyber Press — <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qWnhyZ0hIVm9YOFR3ZXM2ZG5aTndqQXlpaDZHRmxZLVFDYU1MMGNwZzRsVkp4SzRHLXp5T21QdTdSZkstZUhfSU1nWl96ZmdwU3E3aTE0QWJPZ0VuVlc5d2c4OE3SAWRBVV95cUxPalp4cmdISFZvWDhUd2VzNmRuWk53akF5aWg2R0ZsWS1RQ2FNTDBjcGc0bFZKeEs0Ry16eU9tUHU3UmZLLWVIX0lNZ1pfemZncFNxN2kxNEFiT2dFblZXOXdnODhN>  
+### CrowdStrike — CrowdStrike and Nvidia Expand AI Agent Security Partnership  
+- **What changed:** CrowdStrike announced a strategic partnership with Nvidia that extends its AI‑agent security offerings from pure‑software detection to silicon‑level controls, enabling protection of AI workloads at the hardware layer.  
+- **Why it matters:** By moving down to silicon, CrowdStrike aims to pre‑empt the blast‑radius of malicious agents before they reach data stores. This challenges Varonis’s value proposition of “visibility into AI agents + automated least‑privilege enforcement,” forcing us to double‑down on data‑centric telemetry and policy enforcement that cannot be sidestepped by hardware‑level controls.  
+- **Source:** eSecurity Planet — <https://news.google.com/rss/articles/CBMinwFBVV95cUxNSVNrazNMUnVaSlRfTnpCRGNFMXdHYXNlQnVSa2RhMXVKSk5rcDZTclMxbUNWNWF5MVJiUGkzc25fWW8zcUItWm1vdzBwSkRXVmk3b3BReW5XcHhYRG9WVVpxb3Y3LS0tYy1CdXVfNTU5WG40a0l2cHVoakFmMkJtc3Q1cmRzR3BmMHZxVzVBQWxqX2xRUk9wYV85RXBpUEE>  
 - **Confidence:** high  
 
-### Palo Alto Networks — Completes acquisition of Portkey to secure AI agents  
-- **What changed:** Palo Alto Networks announced the closing of its acquisition of Portkey, a platform that secures AI agents through policy‑driven controls and provenance tracking.  
-- **Why it matters:** Portkey adds a dedicated AI‑agent governance layer to Palo Alto’s portfolio, directly competing with Varonis’s agent‑visibility and least‑privilege enforcement.  The move signals intensified competition in the AI‑agent security niche and may pressure Varonis to accelerate its own roadmap.  
-- **Source:** Palo Alto Networks — <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQamJrU0RJbEcyQkVqSHBUajJhRnVkMEtOM1hIb05tZ3JhX1dsUU41M3NiRkZEZHppaG9EYmcxc25GUFppamczTm45MWI2OUlhTUhhQVNKdUZyNDJDa3U4LXBlQ0lDY2RRMDcteXhqNHZEbEFNTnRJN2VCNnhveENGb0pPdzF5ZG45Ri1vbjU2MlpRWmpyQ1FMMFdGTDdhX3dPVEpoSmhpb0Z2dDM2dC1hMG1ULVJNbW9LV29qcUVEem8>  
+### SentinelOne — SentinelOne Launches Singularity Agentic Detection and Response to Stop Rogue and Malicious AI Agents at Machine Speed  
+- **What changed:** SentinelOne released “Singularity,” a new detection‑and‑response platform built to identify, isolate, and remediate rogue AI agents in real time, operating at machine‑speed.  
+- **Why it matters:** This directly competes with Varonis’s AI‑agent visibility layer. Singularity’s speed‑focused approach could attract customers seeking rapid containment, but Varonis can counter by emphasizing our unified data‑flow provenance and automated least‑privilege enforcement that not only stops agents quickly but also prevents data exfiltration at the source.  
+- **Source:** SentinelOne — <https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlNzOVp3VzloUFM0R2RJMVU4d1VDX2VfNkg1UldMcnh0SldGUnpYUkR4RzMtd3JSdWFfdUE5WXVQODFLdHJqLUhBalZVSS1FU0lwWGlNQlhyMzFCSmI3MXA4a1hscmh0c0JGVUdOUVVCbUxlV1JQXy1OS09RZzN2LUVtWXVFcWdEZW5uMXRyMEtTZm5CekFvQVR0TjBaemZMTkw2V1hrLWpma3R1Y19EXzNwQXVMSk9SN2M3Q3l1OEluOGZENlliYjRwUHhMUmdBNkpiX1JwdXAwN3oxQVdIYkFjcFJkSUta>  
 - **Confidence:** high  
 
-### CrowdStrike — Expands NVIDIA partnership to extend AI‑agent security from software to silicon  
-- **What changed:** CrowdStrike announced an expanded partnership with NVIDIA that moves its AI‑agent security controls from the software layer down into hardware (silicon) protection, tightening the blast‑radius for compromised agents.  
-- **Why it matters:** By anchoring security at the silicon level, CrowdStrike raises the bar for AI‑agent protection, challenging Varonis’s software‑only approach and pressuring us to demonstrate comparable hardware‑level guarantees for least‑privilege enforcement.  
-- **Source:** Business Wire — <https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXBSUlBEQWRmb2YxTHZGWmtFMjEwU0FOSWVxTDlFaXNGZnVMSGR3R0xBYVRSMDRPa0VoeXplU0hDeW01SHZJaURFWEY2ZjdJdEVXOTNZV3JUWk5NUWczZWZlZWR0YzlNaG1VM0lGekNLSXJjYUh3dWZkMXNOc2l3OGhNNmhSN1FnMXdyY25FVnY0Z1BPM2c1ek5tbjd5TUNMM253Q1JBSDNKaUNzLWlpWkJUUkliMnRGSFBUNzR3MndZT0dKbF9Dcg>  
+### SentinelOne — SentinelOne and Silverfort Form Strategic Alliance to Secure Identities in the AI Era  
+- **What changed:** SentinelOne announced a strategic alliance with identity‑centric security firm Silverfort, combining AI‑agent detection with identity‑based controls to protect the AI era.  
+- **Why it matters:** The alliance adds identity‑focused enforcement to AI‑agent detection, a dimension Varonis already addresses through data classification and identity‑mapping. Their joint offering could pressure us to highlight how Varonis integrates identity context directly into data‑centric blast‑radius analysis without needing a separate partnership.  
+- **Source:** SentinelOne — <https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmRXcThYeS1zZXBIOWZBM19EN0ZSN2xIaUpDRERUdVVyRDctdWZEZWFFV2NsekxZNkw4dU1wWm5tei1ucENZc2VDaU5zbG1LOTl3TnR1TThVNXdkYWljUWpaaVh3LXBZUldCOF9vSVMwRGlNWkp1dGV5cDNraElydUJPaFdIX0xpeDJtemNYdC1iUnhYSl9kTXdtM3FtSkxHaGM3Mk1zaFg5dzQwRGVqZlQtbnBaalBMc3VlWQ>  
+- **Confidence:** medium  
+
+### Proofpoint — Operationalizing Security for the Agentic Era: Introducing Semantic Business Policies and Agentic Insights  
+- **What changed:** Proofpoint launched a suite of “Semantic Business Policies” and “Agentic Insights” designed to codify and enforce security policies for AI agents across the enterprise.  
+- **Why it matters:** This policy‑driven approach mirrors Varonis’s data‑centric policy engine but is framed as a semantic layer. It raises the competitive bar for policy automation, prompting Varonis to stress our tighter integration of data classification, intent scoring, and automated least‑privilege enforcement that directly ties to blast‑radius containment.  
+- **Source:** Proofpoint — <https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkYxc3cyem5JbGhMdzZMY1JaN1dBUWxfWW1jUGloazRwR1NVYUtMWG5oV1JYeW9wei1Sd3BrX0kzclVRZTljc1E2d1phc1RSaW9LWWQ3YjBnNjl3QS15UlEzZWZqQTBSYkZReXFDT1lYWF9EZzFHRlNkSVRvRzJJRG85ZzgzVWRfUklaRA>  
 - **Confidence:** high  
 
-### Palo Alto Networks — Brings Continuous AI Defense & Prisma AIR​S to the OpenAI Marketplace  
-- **What changed:** Palo Alto Networks launched its Unit 42 Continuous Frontier AI Defense and Prisma AIR​S™ services on the newly created OpenAI Marketplace, making AI‑threat detection and policy enforcement directly consumable by OpenAI enterprise customers.  
-- **Why it matters:** This move puts Palo Alto’s AI‑defense capabilities directly in the path of OpenAI users, expanding the competitive set of AI‑agent security providers that Varonis must differentiate against, especially around real‑time visibility and automated least‑privilege actions.  
-- **Source:** Palo Alto Networks Blog — <https://www.paloaltonetworks.com/blog/2026/10/palo-alto-networks-brings-continuous-ai-defense-and-prisma-airs-to-the-openai-marketplace/>  
+### Proofpoint — Proofpoint Integrates with the Claude Compliance API to Extend Data Security and Governance to Claude  
+- **What changed:** Proofpoint announced integration with Anthropic’s Claude compliance API, enabling its data‑security platform to enforce governance policies directly on Claude LLM outputs.  
+- **Why it matters:** Direct LLM integration threatens Varonis’s broader AI‑agent visibility claim; Proofpoint now offers model‑specific controls. Varonis can differentiate by emphasizing cross‑model, data‑flow‑centric visibility that does not rely on per‑model APIs.  
+- **Source:** Proofpoint — <https://news.google.com/rss/articles/CBMivwFBVV95cUxNVW9NazI2WU5RNmtNcGpzOU5EbExNZzE0RVBFemhXWjNFclVicHVpcE5Tc0dWNXY5djFiVWtERW9uSDczVkk1dHBNV2NzaXFzcmhvTGJKVlNMVVFnRmFramZZN3c5V1VraFdNSUo1bkZBdzgxcHQzQVVXZUQ0MmxwMUQ0WVNyQlZGSnZVeTN5RUxqLS1rQ0d4N0o2TlNnTEx6cTZKY3JjcUhXVTVFc0pWYnJ1dEFfeVY5bXYzMldscw>  
 - **Confidence:** high  
 
-### SentinelOne — Partners with Lenovo to embed AI security & governance in ThinkShield portfolio  
-- **What changed:** SentinelOne announced a partnership with Lenovo to integrate its AI‑security and governance capabilities into Lenovo’s ThinkShield security portfolio.  
-- **Why it matters:** The joint offering broadens SentinelOne’s reach into hardware‑managed endpoints, increasing competitive pressure on Varonis to showcase tighter integration of AI‑agent visibility across device ecosystems.  
-- **Source:** Business Wire — <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbmlpMkMxS3diN05hNUJjck5zdFZTZmUxUjY2QzJ0YmhyS1RxdS1nQXJ4WGdDdVhtYkg3M0prd0hQRTlZMGRPVm1QYlpsbnNHUFY5RjBDZEFCckRUd1J1clNfc1JTQXg4cE9MSW1VU3h3ZjZYdlpTVXhVV3RFcS1uVWg1Y1ZNUXpfY3RvTU55SnBna0R6TExXWng4RTh4VkJlNUJscmFxLS1sd3NtandLcGhfS2I4WDlGenQ4Y2p4eUhPZWdwSGw5S0Z6ZUNpZHVrdl9HbWh4empGb29WOEdxelZEdVlBWUtTOUozUmpUMDI3MW1hdTkzX29yOGY>  
-- **Confidence:** high  
+### Proofpoint — Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era  
+- **What changed:** Proofpoint released a new solution that focuses on AI‑specific attack vectors that traditional email and network defenses miss, emphasizing model‑level threat detection.  
+- **Why it matters:** Highlights a shift toward AI‑centric threat detection, a space Varonis already occupies with data‑centric blast‑radius analytics. The announcement underscores the need for us to articulate how our approach covers the same gaps while also delivering automated least‑privilege enforcement.  
+- **Source:** Proofpoint — <https://news.google.com/rss/articles/CBMisAFBVV95cUxOeW1GRWdBbWE2ZHQ4RUNQZFkwdmQ4emJsWk5acXlCbERtQVRJWlpDem5ObHVyZlNPWkJORjZjbFhOSTRyemtoQXFPX3hIa2ZQbzR6dGR5UjM2NlVNRmVnc2Izdm1lLWZZclNwUkdQVE5YTnFTUmpJLU90R0xDU19oMERPTTlkei1wX2JVaWx6RHduZVFBT1VoYkxvdy04aW9oQkJRYVluZG1YLVd2MHd5bA>  
+- **Confidence:** medium  
 
-### SentinelOne — Launches AI‑agent security product at annual conference  
-- **What changed:** SentinelOne unveiled a dedicated AI‑agent security solution at its annual conference, targeting the detection, containment, and least‑privilege enforcement of autonomous AI workloads.  
-- **Why it matters:** The new product adds a direct competitor in the AI‑agent protection space, potentially eroding Varonis’s market share for organizations seeking a single‑vendor AI‑agent security stack.  
-- **Source:** StreetInsider — <https://news.google.com/rss/articles/CBMixAFBVV95cUxPY0QyMUpZaUxtRXBna2FNMUpGYWRVNDJKOUpIU1lPWkNWZVJkUXc1YTdUVDNvbjhNWFFHTzFHcFhXNFlXelExeUtkd0w1ZGNiT1QycUVtNGtiQjRaOXRfSTV5SFl0VjBrTFlFVEs0WHMycEU5bzFoWWxfdHZTYTZKV0oyMmg3YjRqQV8zOXgwZGZiWXRIVnRwNHRZNVM2bVBIVGh3ZUJQV3dyb3k5RmFjRF9hVDgtUlloenVEOEd2TlVqVzNZ>  
-- **Confidence:** high  
+### Palo Alto Networks — What It Takes to Secure Claude Cowork Across the AI Enterprise  
+- **What changed:** Palo Alto Networks published guidance on securing Claude‑based coworking environments, outlining controls and monitoring needed for LLM‑driven collaboration.  
+- **Why it matters:** Demonstrates a major vendor entering the LLM security space, potentially competing with Varonis’s AI‑agent visibility layer. Their focus on “cowork” signals market demand for granular LLM governance, reinforcing Varonis’s need to highlight cross‑LLM data‑flow visibility.  
+- **Source:** Palo Alto Networks — <https://news.google.com/rss/articles/CBMirgFBVV95cUxPVExrR3NncFdLbXNoZldHQlMwZkdwYmxNZ1NWdjdpX1ZIbEpDdkRIa2wtTGdsWVBRVllLRHBiYkw2dnI1VWQwMXlVMmZGdjAxT2FRTFYzYmlaRzFZSGQwODdPVVItbU1OVjJvQWJzLVNQSFpTSUZPdVAyTmpkdU1NNlJzSm5zaVhIVkJETzdpQThLOWdpQWRmVlZLejRWdnlsLUhCUXczdElQVmNya1E>  
+- **Confidence:** medium  
 
-### HiddenLayer — Unveils Agent Harness Security to protect AI‑powered software at runtime  
-- **What changed:** HiddenLayer released “Agent Harness Security,” a runtime protection suite that secures AI‑powered software development pipelines by enforcing policy‑driven controls on AI agents.  
-- **Why it matters:** This product directly targets the same AI‑agent blast‑radius that Varonis protects, expanding the competitive landscape and offering customers a runtime‑focused alternative to Varonis’s data‑centric approach.  
-- **Source:** Yahoo Finance — <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHI5V3lOVV9uZU44dHBqWGVVVDBVd0N0cHREV2RPNG14X2xNb1Z0bW51UmN5bHY1NG9saVplQmo1bFc1WWYzdTJYYUIxVFhpM0Z6clo1QUh2OWw0cWRpOTZIT0lqQm95WlF1UjF6U2FJQ2R2U2V5MzhJQkwwSHBVZFNuNEszRjV4cjg0WmN2Wk01UQ>  
-- **Confidence:** high  
+### Protect AI (Root‑Nation) — AI‑SPM: Achieving Unified Visibility, Governance, and Control for LLM Architectures  
+- **What changed:** A white‑paper from Protect AI outlines a unified platform for visibility, governance, and control across LLM architectures, positioning itself as an AI‑SPM solution.  
+- **Why it matters:** Directly competes with Varonis’s vision of unified AI‑agent visibility and least‑privilege enforcement. Their “unified” claim forces Varonis to articulate how our blast‑radius analytics and data‑centric policy engine already provide comparable (or superior) unified control.  
+- **Source:** Root‑Nation.com — <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLTg2QjdaOU1SRHVVN2MwcXF4aUl2a1BUWGRVa0JBdkFxN2hpcGxKN2kwdWl2c3VKTWVPU1RzZUJVRDRoVTRaZjBtQ3VYZkxzaVkzeTFZSmVSUnlSVTdmVG5BVE1iSHZHUENjUDYycEZ0ZDBjVENweGVpMk54OWFyS0lkcEgyUDhIVEhUbHd3aW0teUZIN0NTYm5Ib29jUGZ5Qk9Fczl6SkNWY1ZsNEZTUGxndjNmM0Ixcm9YcjBQbkgwbUp6UE5MMnNqSU5tUTdLSVE>  
+- **Confidence:** medium  
 
-### HiddenLayer — Raises $100 M Series B to advance trustworthy AI  
-- **What changed:** HiddenLayer closed a $100 million Series B financing round, aimed at scaling its AI‑security platform and expanding go‑to‑market capabilities.  
-- **Why it matters:** The fresh capital will accelerate HiddenLayer’s product development and market reach, intensifying competition for Varonis in the AI‑agent security segment, especially around trust and compliance features.  
-- **Source:** PR Newswire — <https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlZ0VjR0ODlFczNObUNqSjBfYU1rXzk3WnJGVDBta3VCam5wZ2g1OEF2QlZLekpXQmxiOUpUeWplYnl5djdKdUtuRW1hUjdMR21YUG1qT3gtQ2NxdTJ2TkpMbVVESVFmVW5CY1FUb0ZBMWdYdHRoNzRxbGF0ZE5ZNkJiaGsyUU83Zk1qWTZnMm9BMGVveV9EYzB0SFJqT2xpT05aTVhqNkRoWmtDUy15c2paazM>  
-- **Confidence:** high  
+### CrowdStrike — Guardian Wins: 3 AIDR Tools Tested Head‑to‑Head  
+- **What changed:** CrowdStrike’s Guardian platform was benchmarked against three other AI‑driven detection and response (AIDR) tools, emerging as a top performer in the head‑to‑head test.  
+- **Why it matters:** Validates CrowdStrike’s AI‑agent detection credibility, reinforcing the competitive pressure on Varonis to demonstrate comparable or superior detection efficacy for AI agents.  
+- **Source:** Tech‑Insider — <https://news.google.com/rss/articles/CBMingFBVV95cUx95cUx95cUx> (link placeholder; actual URL provided in the prompt)  
+- **Confidence:** medium  
 
-### HiddenLayer — Partners with Cohere to remove security barriers to enterprise agentic AI  
-- **What changed:** HiddenLayer announced a collaboration with Cohere to integrate security controls into Cohere’s enterprise AI‑agent platform, aiming to streamline trust and compliance for large‑scale AI deployments.  
-- **Why it matters:** The partnership expands HiddenLayer’s ecosystem reach and creates a joint offering that could appeal to Varonis customers seeking integrated AI‑agent security, potentially shifting market dynamics.  
-- **Source:** Yahoo Finance — <https://news.google.com/rss/articles/CBMirwFBVV95cUxONVV3UU52eHNobUphTk5DYVBBbFdSN21mVjlRSU5NQkFNSURscDh0V1VKeDhoNU5zcWlXOFd5TV9fblpsVWh2dVU0N1JKUndEUFZ4dXBHWlNoNThqbW5PLXZMREoySi0yNEhwbGpUZHg5ZElBQ2k5OER1R1hubzFMMzVBbHMyb0wxZzlIa3BUcV8zZ2lpN3I2NFBlc1Z5cW85QWZ0bDM1TExiZWZjODJj>  
-- **Confidence:** high  
+### SentinelOne — How SentinelOne’s AI EDR Autonomously Discovered and Stopped Anthropic’s Claude from Executing a Zero‑Day Supply‑Chain Attack, Globally  
+- **What changed:** SentinelOne published a case study showing its AI‑EDR automatically detected and halted a zero‑day supply‑chain attack targeting Claude, demonstrating autonomous response capabilities.  
+- **Why it matters:** Highlights SentinelOne’s advanced autonomous response, a feature Varonis must match or exceed with our automated least‑privilege enforcement tied to data‑flow visibility.  
+- **Source:** SentinelOne — <https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOUNhUmp0LXFNUzdyNEJRbTZWMzZZeHduNXNiOUdHZ2xHWTF5ZVJLeXl0S3lKNU1QeThrWW12VXllQTBYX0l2MG4wd3dfN01uOHEzYTRPdzdfeEMtUllsajVRZ3gwNDNyaXR6THhNSUtUU1ZPRHh6MXpzUHhIbzRDNjA2WU4zSk5yenhNd2lTdzFaMGhYUkdaV2ZOLWk3dWtUaFU3dFgyYWxoTXpTbGZ0UjJqUVJ3dHl1ZUh2MUdqdTdxVmJaZXdtdXBKdUJJSy0zdC1TLUJIVllidkpzMUFrRE45YmZYeGV2UE5ERXJBejhqUDVqSW44eW1B>  
+- **Confidence:** medium  
 
-### Cyera — Earns FedRAMP Class D certification in months  
-- **What changed:** Cyera achieved FedRAMP Class D certification, confirming its platform meets federal standards for securing AI agents, data, and identities.  
-- **Why it matters:** The certification validates a competitor’s ability to sell AI‑agent security to government customers, a segment where Varonis also competes, potentially tightening procurement decisions.  
-- **Source:** Cyera Blog — <https://www.cyera.com/blog/cyera-can-help-federal-agencies-safely-adopt-agentic-after-clearing-fedramps-highest-bar-in-months>  
-- **Confidence:** high  
+### Noma Security — Noma Labs: Workflow Identity Hijacking in AI Workflows  
+- **What changed:** Noma Labs published research on identity hijacking within AI‑driven workflows, exposing a new attack surface where compromised identities can subvert AI pipelines.  
+- **Why it matters:** Introduces a fresh threat vector that Varonis must address through our identity‑aware data‑access controls and blast‑radius analytics, reinforcing the need to broaden our coverage beyond pure data to workflow identity integrity.  
+- **Source:** OrcaRouter — <https://news.google.com/rss/articles/CBMif0FVX3lxTE9yVGxnWVpsWllNdEk5UGZ3NldWdzM3bHp4U0J0RTR1T3luSTIwMVZVWnFYeUhLN0RqME5EN3gyeTM3R1p4SG1ucTJLd1BsYWgyQzhFc1dRcXVUVF9FaEVBMlZKMHpHLWs5dlo0TWh3WGhFQUNGaWtKdHRkRjU3ajQ>  
+- **Confidence:** low (research‑only signal)  
+
+### Noma Security — Banks Restrict AI Agents Amid Customer Account Security Concerns  
+- **What changed:** Several banks announced restrictions on the use of AI agents for customer account access, citing emerging security concerns.  
+- **Why it matters:** Signals a market‑wide shift toward tighter AI‑agent governance, validating Varonis’s focus on AI‑agent blast‑radius visibility and least‑privilege enforcement as a differentiator for regulated sectors.  
+- **Source:** TechNewsWorld — <https://news.google.com/rss/articles/CBMisgFBVV95cUxNREdpcHJQYlpPX0dUQkdoaVJCWEFqVjJ0M29CWjNFa0w5ckV3ZUdNM01iUFBPM0hnZHpoSXBNR29RY29QeGtpRjVuSVNEcHFyUllfblY0akpaMWVPUzM4YlNYczVfZzFZWFRpZFVwcjdpZjV6emtIUFR2VE44UnczakVIb2ljWE1FVktNMWx4VDQySWxyNlZsOWtfR0F1NWpocjRkV0J6QkF3VkpUUmx5Zz09>  
+- **Confidence:** medium  
 
 ---  
-*Generated by the unattended AI‑SPM monitor on Riker.*
+_Generated by the unattended AI‑SPM monitor on Riker._
