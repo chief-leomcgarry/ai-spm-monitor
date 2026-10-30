@@ -1,44 +1,26 @@
-# AI-SPM Competitor Digest — 2026-10-29  
+# AI-SPM Competitor Digest — 2026-10-30
 
-## Top of the day  
-Proofpoint is rolling out an AI‑security hub in Hyderabad, signaling an accelerated push into AI‑agent protection just weeks before its pending acquisition of Varonis. The move could tighten Proofpoint’s AI‑agent visibility and least‑privilege enforcement capabilities, directly overlapping Varonis’s blast‑radius offering.
+## Top of the day
+SentinelOne has launched a dedicated "Agentic Detection and Response" offering, signaling a direct move to capture the AI agent security market by focusing on runtime detection.
 
-## Events  
+## Events
 
-### SentinelOne — Singularity Agentic Detection and Response launched  
-- **What changed:** SentinelOne announced *Singularity*, a detection‑and‑response platform that automatically discovers, classifies, and contains AI agents across hybrid environments.  
-- **Why it matters:** Singularity expands SentinelOne’s AI‑agent surface‑area map, threatening Varonis’s differentiation on “agent blast‑radius” visibility. Their automated containment could erode Varonis’s value proposition unless we accelerate our own automated least‑privilege enforcement for AI agents.  
-- **Source:** VARIndia — <https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0FpX0ttWTE1N2E1UFd2VUZFRU1falZEcU9VVmhMck56WlkxaHdOLWpveWVRU0U1RURGU0NLVXNsdURSQzY2Yk1COUJLSHY3TndaenZJRWllMGVTZDZVNE5HTG93cmpFUEJEUnY1aTB1UW1WVjhHeXdDOTdVOXA5VnNxWXNic3d0bDJlOENmam45bWt5NDZoeDFjT0d5M3I3bC03dXVWZGlQSlVMaXZwOHZiM0JNWVU?oc=5>  
-- **Confidence:** high  
+### SentinelOne — Launches Agentic Detection and Response (ADR)
+- **What changed:** SentinelOne released a new offering specifically for Enterprise AI Security, focusing on "Agentic Detection and Response" to address the visibility gaps traditional EDR has regarding AI agents.
+- **Why it matters:** This is a direct challenge to our AI-SPM positioning. While they focus on *detection* (the "what happened"), we must double down on *blast radius* (the "what could happen"). Our pitch should emphasize that detection is too late; automated least-privilege enforcement is the only way to prevent an agent from accessing sensitive data in the first place.
+- **Source:** CXO Digitalpulse — https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEpjMnV6d1NJeEtJdDZBRFctY01PcUo3SjRqTEhxcHM1UE54Y3c0dWZSZ01pTDdBbkxVZnpkWkVxOS0wTkR4Njc0UGhENFpGZWNiRWFseXlocEM2XzZ6MFd4d3o2bWtuSjU0dC1pNnJST2QwR3F4cFdJMTJMS2c1TGVZVEw1N2VMWjZkNllCQ09yVnk1bV9RSk55N0dUV2lRX0o3ZjF6Q0QtWjk4RDE2M0hIak00RlJpb2dWdQ?oc=5
+- **Confidence:** high
 
-### Proofpoint — Hyderabad AI‑Security Hub announced  
-- **What changed:** Proofpoint opened a dedicated AI‑security center in Hyderabad, positioning the city as the front‑line for its AI‑agent protection services and research.  
-- **Why it matters:** As the imminent acquirer of Varonis, Proofpoint is building internal AI‑agent capabilities that could be integrated into Varonis post‑close, potentially reshaping our roadmap. The Hyderabad hub may accelerate Proofpoint’s AI‑agent visibility stack, pressuring us to demonstrate faster time‑to‑value on blast‑radius analytics.  
-- **Source:** The New Indian Express — <https://news.google.com/rss/articles/CBMi4wFBVV95cUxORU10RUFTTE5GTnh2eEFmaUg3aGxXVjhER19abC0wdVlWQmZlTWxNVGxOVnFhYnN0cTg3dkFoY0VXaG9vdGpRdjdGMV9YRXBEWnRtTXdoN2VVNzRYQUxTU3RTTVh0a2tLYVh2d0w2VmJkT1NWYlpwaXFFZDFYYW5JSC1aYnNPcXNwTnlsTVJ4Y1lvZk5rQ0lmcmdBcVhqWjN1cDJEUEZJZmw0cUctTzFoRlJnTW51clJRWGpDa2VRLUVib192TzJwS0tWWkVGSmRjWktSUEUtdF9PY1h5UXhhRzR1Z9IB8AFBVV95cUxOSUJVWDB2TzdJdmFVNlA4OEJQZi0xcnRGTXVTaGVaVThGSXpNLTVFZ0Z3pMQjBqOGMwRktWY2hnX1BVV0ZmbEp6TEJPTERkNXhfbGQ4NDVoVUdINnBEemZYUE5PTmVsUjBUZWU2WmItR2VTVnlSZ2NSeHgycW1iMzR2a0V0LWZ3NUIxMHB6aHBEZ0RfbjBmZTV1LXpWZW5TNmx6cmhRejRONFQ0Y2lfTU9Td0kzTm5ZM3NrUmlQMVZ5UDBQem56cDh6NXppUG52OHQxbVhGM0lNeXBDZ2J4TVBLaWw5TWtmbkkwUjFFeHg?oc=5>  
-- **Confidence:** high  
+### Palo Alto Networks — Integrates Model Security into Google Gemini Enterprise
+- **What changed:** Palo Alto Networks is bringing its model security capabilities directly into the Google Gemini Enterprise ecosystem.
+- **Why it matters:** This increases the "platform play" pressure. As PANW embeds deeper into the LLM provider's ecosystem, we must emphasize that Varonis provides the cross-platform data governance layer that prevents sensitive data from ever reaching these models, regardless of which provider the customer uses.
+- **Source:** Palo Alto Networks — https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmZodnplQ1VIemJYbDZEUG5wcmZDTFR6VkJaNHhBODBtaFZySDduZjVmLUEwRUJxekRXOW1OZkVzdV9LWktxR1NpT3FrbHJfQ3RPWWdnUkFUNTVwaGN3aWtzTHVCSEtMSnZmd2hTMDZwSk44SjJERXJPUk40Rm54cmxjYmtHT0ZYVVhYU1hzSlhISEhSMXJQQk15b2xNZmNnbU82ZGQ4NHdGb250SERSUTZ2MA?oc=5
+- **Confidence:** high
 
-### Palo Alto Networks — Idira Agent Identity Security now GA for Prisma AIR S  
-- **What changed:** Palo Alto Networks released Idira, a GA‑grade agent‑identity security engine that integrates with Prisma AIR S to enforce least‑privilege policies for AI agents.  
-- **Why it matters:** Idira directly competes with Varonis’s automated least‑privilege enforcement for AI agents. Its GA status forces Varonis to accelerate feature parity and to highlight our broader data‑centric visibility advantage.  
-- **Source:** Palo Alto Networks — <https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ2xNWXBtNGE3RU9OcURIS3VZbkhOeU5sYm1kOHRYZGJWZ1dZR2JZbTRCNEE4VnRmSXZDbTh6WXZacHhrem1HeDlCZFdfcW9ZR08yQXdmbUlBNnpFazhXcmFaTGVwbDUyVC1pLUtqTTZvMTEzU3dNMzBRSWVtT2NQQm9GV1FyZkEyTlY5U0lKMjM4OUVnNkV5VGlrOWJNLW1Gc3UzbWtSS0x4d0VyYWc?oc=5>  
-- **Confidence:** high  
+### CrowdStrike — Expanding AI Security Suite (Falcon Guardian/SafeMind)
+- **What changed:** CrowdStrike is scaling its AI security suite, including Falcon Guardian and SafeMind, with a focus on prompt injection and agent-planning attacks.
+- **Why it matters:** CrowdStrike is attacking the "input" side of AI security (prompt injection). We should position this as complementary but insufficient; stopping a bad prompt is useless if the agent already has over-privileged access to the entire corporate file share. Our value is in the data-centric "output" and access control.
+- **Source:** Seeking Alpha / CrowdStrike Blog — https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR29TQnB0dU92QkdOanVmT1U4S1pHVHBENlBuSFFfZkFtTzdwc09ISlJSZ2llLVN2Q3luczJ3alh1Um5YdGFnby13aHhuRG1EMDlUWXhqcWcyOWlzOGFXdG9uNjJvbHZka2d0d1FXZHJ3SHRvMU5XSGYzUVFOTWJMbGhMclF0N2NMUkMxUHFyVExCOFdVVk5hb1h6b241MWE3RnJRVV9wZ20?oc=5
+- **Confidence:** high
 
-### Palo Alto Networks — Partnership with NVIDIA to tighten AI‑agent control  
-- **What changed:** Palo Alto Networks announced a joint effort with NVIDIA to develop tighter control mechanisms for AI agents, leveraging NVIDIA’s AI‑hardware and security frameworks.  
-- **Why it matters:** The partnership could give Palo Alto a hardware‑anchored edge in AI‑agent visibility and enforcement, raising the bar for AI‑agent blast‑radius management and pressuring Varonis to showcase our software‑only agility and cross‑cloud coverage.  
-- **Source:** Help Net Security — <https://news.google.com/rss/articles/CBMikAFBVV95cUxOeHlYTTlLcjFYZzVtaDRYbm5zR3pRd1ctNV96RGk5X3JSVUNXQURxeE10YmdHamlkOFdGSjF6V0JjR0FVUTRDN2c5cUVINDhaRXhkb2lCcFNOc3hjTjFaV2trR2daQWdWcWplTkQ4RVlROE11MWE4MlNLT3p5MWwyY2NiWm52RWVQdmI4cGVPS0Y?oc=5>  
-- **Confidence:** medium  
-
-### CrowdStrike — Falcon Guardian for AI‑agent security (launch)  
-- **What changed:** CrowdStrike introduced Falcon Guardian, a dedicated solution for discovering, monitoring, and containing AI agents across enterprise environments.  
-- **Why it matters:** Falcon Guardian expands CrowdStrike’s AI‑agent surface‑area mapping, adding another competitor to the AI‑SPM space. Its launch underscores the growing market pressure on Varonis to differentiate on data‑centric blast‑radius analytics and automated least‑privilege enforcement.  
-- **Source:** Verdict — <https://news.google.com/rss/articles/CBMicEFVX3lxTE5OVWV0TTcwVFdTUzJJZmtOczBRRFpIX1BIeHctcmxmMGp6eDItb1U2NVhRWlRKeF9kbTRoNWJaRW5sQ2NhVUJfWEJHOWdtRzJiazhzclJKZjMzVC1lcUNCMkhoelFPaS1hUkpLQU9zY3c?oc=5>  
-- **Confidence:** medium  
-
-### Onyx Security — Company launch with $40 M funding  
-- **What changed:** Onyx Security announced its market entry, backed by $40 million in venture capital, positioning itself as an AI‑agent security provider.  
-- **Why it matters:** Onyx’s entry adds a fresh player focused on AI‑agent protection, potentially fragmenting the market and increasing competitive pressure on Varonis to maintain leadership in visibility and automated enforcement. Early monitoring of Onyx’s roadmap will be essential.  
-- **Source:** SecurityWeek — <https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWVWZVpLV1hpYlR5RzRCRnVkRmNTM3MzejQxeTdNSzV0UlQtYjliVFVRaFEtc3pIQmkzYmRsUEVNVzNWTnZOZmVTX3pMdUFGS2Rsem5raFplZ2lVRWlxbTVnbndwZDNFTzBkQnhGRGtlMktDUHRXYmR5ekFfVjNXOUpWNXZWQdIBiwFBVV95cUxQQnJfUllOZ1RINWhlNzlNSFFxRUV0UG5KTjVyZkJKbXY1YVNFcU90cmZZM0ZDZWJidGJGMERHblFGeWVHV01zcFJjdXpfcEF6TThjSklxWER5UEdsZzJsOUYtTnBvYWtHN2x6Qk1QNEtRcDNPQTAtdDNBVVk5TncxQ2lFLUJxWnJIeXZj?oc=5>  
-- **Confidence:** medium  
-
-*Generated by the unattended AI-SPM monitor on Riker.*
+_Generated by the unattended AI-SPM monitor on Riker._
