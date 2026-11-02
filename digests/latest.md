@@ -1,26 +1,32 @@
-# AI-SPM Competitor Digest — 2026-10-30
+# AI-SPM Competitor Digest — 2026-11-02
 
 ## Top of the day
-SentinelOne has launched a dedicated "Agentic Detection and Response" offering, signaling a direct move to capture the AI agent security market by focusing on runtime detection.
+The most material development is the WSJ coverage of Proofpoint’s $6.3B acquisition of Varonis, which frames our integration as a strategic expansion of Proofpoint's data-security reach; this validates our agent blast-radius positioning as the core asset driving the deal. Additionally, CrowdStrike’s announcement of the "Agent Graph" and its integration with Theta Lake signals an aggressive push to bundle AI-agent visibility into their endpoint platform, creating immediate displacement risk for our standalone agent-security pitches.
 
 ## Events
 
-### SentinelOne — Launches Agentic Detection and Response (ADR)
-- **What changed:** SentinelOne released a new offering specifically for Enterprise AI Security, focusing on "Agentic Detection and Response" to address the visibility gaps traditional EDR has regarding AI agents.
-- **Why it matters:** This is a direct challenge to our AI-SPM positioning. While they focus on *detection* (the "what happened"), we must double down on *blast radius* (the "what could happen"). Our pitch should emphasize that detection is too late; automated least-privilege enforcement is the only way to prevent an agent from accessing sensitive data in the first place.
-- **Source:** CXO Digitalpulse — https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEpjMnV6d1NJeEtJdDZBRFctY01PcUo3SjRqTEhxcHM1UE54Y3c0dWZSZ01pTDdBbkxVZnpkWkVxOS0wTkR4Njc0UGhENFpGZWNiRWFseXlocEM2XzZ6MFd4d3o2bWtuSjU0dC1pNnJST2QwR3F4cFdJMTJMS2c1TGVZVEw1N2VMWjZkNllCQ09yVnk1bV9RSk55N0dUV2lRX0o3ZjF6Q0QtWjk4RDE2M0hIak00RlJpb2dWdQ?oc=5
+### CrowdStrike — Launches "Agent Graph" and Theta Lake Integration
+- **What changed:** CrowdStrike announced the "Agent Graph," a feature that visualizes how AI agents act on the endpoint, and simultaneously announced an integration with Theta Lake for Falcon Guardian.
+- **Why it matters:** This directly challenges our core wedge of agent visibility and blast-radius analysis. By embedding agent behavior mapping into the endpoint agent, CrowdStrike risks bundling this capability into existing enterprise contracts, potentially displacing our standalone AI-SPM deals before customers realize the depth of data-access enforcement we provide.
+- **Source:** CrowdStrike / Business Wire — [CrowdStrike Agent Graph](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaF9PNlBsbnFZV0xjNUpVNGZ4NzZjS2ZIVVVlV191VmVpYmhoNHBCdnZaLVZiUmdfNjhTR0JyZ3RZYU80SGVCWFJqR1pKd3YtOE5JNmFTZ2R2WnRIUkRYdmlMZXBITmNHdTdYRU5mZVBoOS05WHBXb0lVSU5sLWhKb1hiVldwQmQwVXRpRmN1clo1YnFtaGdZVlpGdUw?oc=5) / [Theta Lake Integration](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDJrbTVmTkw1LVpDVERta1o3N1JXQzc2YUFaNmdCSk9Tc1h6SVBFLUNuRmNVVGFnam1BYTVid2gxalAwYW5vNHNRM1hJMDl0Zjh2d1BETlhUVHdBaS16eFFEaVVKa0RsbTBpTkkyMzlFZndNUjlOUEFkQ2tzSHRGU0FyNU9hNWNrLU5sZTlmcEkybm14Vk56V09EMTM3dEZ2dVFMN21CMnFobHhxczd3OHVfaFJ4NUdwREUzNkFpTQ?oc=5)
 - **Confidence:** high
 
-### Palo Alto Networks — Integrates Model Security into Google Gemini Enterprise
-- **What changed:** Palo Alto Networks is bringing its model security capabilities directly into the Google Gemini Enterprise ecosystem.
-- **Why it matters:** This increases the "platform play" pressure. As PANW embeds deeper into the LLM provider's ecosystem, we must emphasize that Varonis provides the cross-platform data governance layer that prevents sensitive data from ever reaching these models, regardless of which provider the customer uses.
-- **Source:** Palo Alto Networks — https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmZodnplQ1VIemJYbDZEUG5wcmZDTFR6VkJaNHhBODBtaFZySDduZjVmLUEwRUJxekRXOW1OZkVzdV9LWktxR1NpT3FrbHJfQ3RPWWdnUkFUNTVwaGN3aWtzTHVCSEtMSnZmd2hTMDZwSk44SjJERXJPUk40Rm54cmxjYmtHT0ZYVVhYU1hzSlhISEhSMXJQQk15b2xNZmNnbU82ZGQ4NHdGb250SERSUTZ2MA?oc=5
+### Proofpoint — WSJ Details $6.3B Acquisition of Varonis
+- **What changed:** The Wall Street Journal published an article detailing Proofpoint's $6.3 billion spend to expand its data-security reach through the acquisition of Varonis.
+- **Why it matters:** This is the definitive corporate-development event for our company. The framing of "expanding data-security reach" confirms that our agent blast-radius and sensitive-data visibility capabilities are the primary strategic value being acquired, reinforcing our internal narrative that we are the leader in this specific AI-security niche.
+- **Source:** WSJ — [Proofpoint Spends $6.3 Billion](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkJ2MDRjVV9nem1Id3lTakRneHZNeG9nTDFLODdONnBNdVIyWUVMYW5lcGo0QTFJa0Z3NUxHeFNQaGFoSTZlMWxuTVNZUHkwZkQ4cmRqZTN5dEt4YTdmYi1JcWR2TGR4ejgyOUZXTWVuNkJhQ1BpSnlkWTVKWTNsbjdtVjJpRTFLMUNqVy1NcEttZnZ1WUwtTllIV2hiSGlMbU4tZVFramNBdw?oc=5)
 - **Confidence:** high
 
-### CrowdStrike — Expanding AI Security Suite (Falcon Guardian/SafeMind)
-- **What changed:** CrowdStrike is scaling its AI security suite, including Falcon Guardian and SafeMind, with a focus on prompt injection and agent-planning attacks.
-- **Why it matters:** CrowdStrike is attacking the "input" side of AI security (prompt injection). We should position this as complementary but insufficient; stopping a bad prompt is useless if the agent already has over-privileged access to the entire corporate file share. Our value is in the data-centric "output" and access control.
-- **Source:** Seeking Alpha / CrowdStrike Blog — https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR29TQnB0dU92QkdOanVmT1U4S1pHVHBENlBuSFFfZkFtTzdwc09ISlJSZ2llLVN2Q3luczJ3alh1Um5YdGFnby13aHhuRG1EMDlUWXhqcWcyOWlzOGFXdG9uNjJvbHZka2d0d1FXZHJ3SHRvMU5XSGYzUVFOTWJMbGhMclF0N2NMUkMxUHFyVExCOFdVVk5hb1h6b241MWE3RnJRVV9wZ20?oc=5
-- **Confidence:** high
+### Palo Alto Networks — Prisma AIRS Identified as Key Growth Driver
+- **What changed:** A Yahoo Finance analysis suggests that Prisma AIRS (AI Runtime Security) is emerging as a key growth driver for Palo Alto Networks.
+- **Why it matters:** While Prisma AIRS focuses on runtime security, its growth trajectory indicates that PANW is successfully monetizing AI security. This validates the market size for AI security but also signals that PANW is aggressively expanding its AI portfolio, potentially competing for the same budget lines as our agent-visibility solutions.
+- **Source:** Yahoo Finance — [Is Prisma AIRS Emerging as a Key Growth Driver?](https://news.google.com/rss/articles/CBMiogFBVV95cUxQclVvQVhFTjI0QV8zMnAtRnZQWmxBb2FBUEhFdk5RaUEyMWdVSUZVNklhZHpSTF9VOURWbm1IVWE3eTZTRWplRkpaemRkVmtqdm9BZnNJNTZHT19GbEcyaWJobkVYcElYTHI4aDBQSE9SZ0RNeEZrRkJDSjByVUJnZ3VKN2xFMG55bzRtRVhSdmE1ZERVQkJfQmc4d0JNQnR3bmc?oc=5)
+- **Confidence:** medium
+
+### Noma Security — Identity-Based AI Attack Threatens Enterprise Data
+- **What changed:** Dark Reading reported on Noma Security's findings regarding identity-based AI attacks that threaten the security of enterprise data.
+- **Why it matters:** This reinforces the threat model we are addressing: AI agents leveraging identity to access sensitive data. Noma's focus on identity-based attacks aligns with our least-privilege enforcement wedge, but their specific focus on identity could position them as a specialist competitor in the identity-AI intersection, potentially complicating our pitch if customers view identity and data access as separate domains.
+- **Source:** Dark Reading — [Identity-Based AI Attack Threatens Security of Enterprise Data](https://news.google.com/rss/articles/CBMingFBVV95cUxNcS0wdmZXeDJvc0dsLUNvSWhhd1R6Smp2ZEhoazVUVmZxUTJBV19HMXN0UjQxaXF1RHBRSGMwMkVSV3BmXzBIbGRYS0xwWUxzRVE5TjJYUzFhbU5XS2FGVW82VXFTQjlYRWYzMFZodV9MZ2hINVJNR2ozcS1XRDFtSGc3WHpxcWpadXdpX0wtM3h5Y2F3b3F2a2UyeDNzQQ?oc=5)
+- **Confidence:** medium
 
 _Generated by the unattended AI-SPM monitor on Riker._
