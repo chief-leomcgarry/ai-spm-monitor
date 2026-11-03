@@ -1,32 +1,26 @@
-# AI-SPM Competitor Digest — 2026-11-02
+# AI-SPM Competitor Digest — 2026-11-03
 
 ## Top of the day
-The most material development is the WSJ coverage of Proofpoint’s $6.3B acquisition of Varonis, which frames our integration as a strategic expansion of Proofpoint's data-security reach; this validates our agent blast-radius positioning as the core asset driving the deal. Additionally, CrowdStrike’s announcement of the "Agent Graph" and its integration with Theta Lake signals an aggressive push to bundle AI-agent visibility into their endpoint platform, creating immediate displacement risk for our standalone agent-security pitches.
+CrowdStrike is aggressively consolidating the AI security market by reportedly acquiring two AI security startups for $495M and launching an "AI Kill Switch" for rogue agents, signaling a direct challenge to Varonis’s wedge of agent blast-radius visibility and enforcement.
 
 ## Events
 
-### CrowdStrike — Launches "Agent Graph" and Theta Lake Integration
-- **What changed:** CrowdStrike announced the "Agent Graph," a feature that visualizes how AI agents act on the endpoint, and simultaneously announced an integration with Theta Lake for Falcon Guardian.
-- **Why it matters:** This directly challenges our core wedge of agent visibility and blast-radius analysis. By embedding agent behavior mapping into the endpoint agent, CrowdStrike risks bundling this capability into existing enterprise contracts, potentially displacing our standalone AI-SPM deals before customers realize the depth of data-access enforcement we provide.
-- **Source:** CrowdStrike / Business Wire — [CrowdStrike Agent Graph](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaF9PNlBsbnFZV0xjNUpVNGZ4NzZjS2ZIVVVlV191VmVpYmhoNHBCdnZaLVZiUmdfNjhTR0JyZ3RZYU80SGVCWFJqR1pKd3YtOE5JNmFTZ2R2WnRIUkRYdmlMZXBITmNHdTdYRU5mZVBoOS05WHBXb0lVSU5sLWhKb1hiVldwQmQwVXRpRmN1clo1YnFtaGdZVlpGdUw?oc=5) / [Theta Lake Integration](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDJrbTVmTkw1LVpDVERta1o3N1JXQzc2YUFaNmdCSk9Tc1h6SVBFLUNuRmNVVGFnam1BYTVid2gxalAwYW5vNHNRM1hJMDl0Zjh2d1BETlhUVHdBaS16eFFEaVVKa0RsbTBpTkkyMzlFZndNUjlOUEFkQ2tzSHRGU0FyNU9hNWNrLU5sZTlmcEkybm14Vk56V09EMTM3dEZ2dVFMN21CMnFobHhxczd3OHVfaFJ4NUdwREUzNkFpTQ?oc=5)
+### CrowdStrike — Reportedly acquires AI security startups for $495M and launches 'Kill Switch' for rogue agents
+- **What changed:** CrowdStrike is reported to be purchasing two AI security startups for a combined $495M and has launched a new "Kill Switch" capability designed to stop rogue AI agents.
+- **Why it matters:** This move directly targets the agent security space Varonis occupies; by bundling agent containment ("kill switch") with their existing endpoint/cloud footprint, CrowdStrike risks displacing our standalone agent visibility and least-privilege enforcement pitch in enterprise deals.
+- **Source:** TradingView — https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcmZrRi03RXgzVXdtMV94VHptZW9UbzhmRlpBZ2tFU0hsaG5zbjllMkxLeXREYk5aQWotemxVMmMxME1UQjNUbmV4SEpyRXJXR2hCcUJ3d25ud3RUTnp6dUJNWkpsWkJESUN2UGk1S3lZYV9fblZSVktGd3B3dlA4aEpmQWh2RVhPbDFINFhmN0VIaENDWmdSYXUteURCelJJWXNsX0tYU2pTMVlrRV9uUTd5dXJFcF9DSEdqbHA5OUs5YmRxOFYzRVIzQmczUFhzSnpHT3A4ODVkdzU3MkZiZXc4MHlFNkVWMVZRYXVSdw?oc=5
+- **Confidence:** medium (Multiple sources confirm the "Kill Switch" launch, but the acquisition details are reported as "reportedly" in the headline, suggesting pending confirmation or rumor status).
+
+### SentinelOne — Expands AI Security coverage to Anthropic's Claude Cowork
+- **What changed:** SentinelOne has expanded its AI security platform to include coverage for Anthropic's Claude Cowork, extending its detection and response capabilities to this specific agentic environment.
+- **Why it matters:** By integrating directly with major LLM agent platforms like Claude Cowork, SentinelOne is building out a comprehensive agent visibility layer that could compete with our agent blast-radius analytics, potentially offering customers a consolidated view of agent behavior and data access without needing a separate Varonis deployment.
+- **Source:** Business Wire — https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVFxb3FBOGxUNEpSakRtLWhOR1dDeDRDR2pJMU9PRlZYVXJ6Zk9zT25yaTE0R2NFc01GNnRuVUhOaFV5S0tFa0RZQnFBaDBLTDZHQnQzWFFCc3NzRVRyQ0FBTThQcDB5NlA5TWp3VUxoTEZYTV9wb3VtWk9iZTNQbDRiZkh3WEVmQk42VlVTV21RREFGU1FhWVp6VmRDVFF0aVpucGduUUJRT0tldEF6SzFxbmg?oc=5
 - **Confidence:** high
 
-### Proofpoint — WSJ Details $6.3B Acquisition of Varonis
-- **What changed:** The Wall Street Journal published an article detailing Proofpoint's $6.3 billion spend to expand its data-security reach through the acquisition of Varonis.
-- **Why it matters:** This is the definitive corporate-development event for our company. The framing of "expanding data-security reach" confirms that our agent blast-radius and sensitive-data visibility capabilities are the primary strategic value being acquired, reinforcing our internal narrative that we are the leader in this specific AI-security niche.
-- **Source:** WSJ — [Proofpoint Spends $6.3 Billion](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkJ2MDRjVV9nem1Id3lTakRneHZNeG9nTDFLODdONnBNdVIyWUVMYW5lcGo0QTFJa0Z3NUxHeFNQaGFoSTZlMWxuTVNZUHkwZkQ4cmRqZTN5dEt4YTdmYi1JcWR2TGR4ejgyOUZXTWVuNkJhQ1BpSnlkWTVKWTNsbjdtVjJpRTFLMUNqVy1NcEttZnZ1WUwtTllIV2hiSGlMbU4tZVFramNBdw?oc=5)
+### Proofpoint — Reports strong Q3 with accelerating growth in AI era
+- **What changed:** Proofpoint announced strong Q3 results, highlighting accelerating growth and innovation in the AI security space.
+- **Why it matters:** As the pending acquirer of Varonis, Proofpoint’s strong financial performance and focus on AI security validate the strategic rationale behind the $6.3B acquisition. This reinforces the integration narrative for our internal teams and customers, emphasizing that our agent security capabilities are being absorbed into a well-capitalized, growing platform.
+- **Source:** Proofpoint — https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWHJ4OU5fRk9nOHNOTHFkbGtwYTZCRjg1UHhMUnRHcENNMWlvb0dGaFVQc1BGT0phQkZid0dLOVlfakIzTmdzekxReV91MzFXRVFVUXJ0aDNJbEY5ekF1ZUlkTzRwSnVIN2lPQW0tYXpnbC1vY1c4TUo4bHllX2JlaGR2ZDJGOEQ0RmNsNWRIeUd3cl90aFF2ejR4aU5LMXdmcTVnb2daaVJwajZ0UTB6a1FHbVVidmVuVDFFWkRzNHo0dw?oc=5
 - **Confidence:** high
-
-### Palo Alto Networks — Prisma AIRS Identified as Key Growth Driver
-- **What changed:** A Yahoo Finance analysis suggests that Prisma AIRS (AI Runtime Security) is emerging as a key growth driver for Palo Alto Networks.
-- **Why it matters:** While Prisma AIRS focuses on runtime security, its growth trajectory indicates that PANW is successfully monetizing AI security. This validates the market size for AI security but also signals that PANW is aggressively expanding its AI portfolio, potentially competing for the same budget lines as our agent-visibility solutions.
-- **Source:** Yahoo Finance — [Is Prisma AIRS Emerging as a Key Growth Driver?](https://news.google.com/rss/articles/CBMiogFBVV95cUxQclVvQVhFTjI0QV8zMnAtRnZQWmxBb2FBUEhFdk5RaUEyMWdVSUZVNklhZHpSTF9VOURWbm1IVWE3eTZTRWplRkpaemRkVmtqdm9BZnNJNTZHT19GbEcyaWJobkVYcElYTHI4aDBQSE9SZ0RNeEZrRkJDSjByVUJnZ3VKN2xFMG55bzRtRVhSdmE1ZERVQkJfQmc4d0JNQnR3bmc?oc=5)
-- **Confidence:** medium
-
-### Noma Security — Identity-Based AI Attack Threatens Enterprise Data
-- **What changed:** Dark Reading reported on Noma Security's findings regarding identity-based AI attacks that threaten the security of enterprise data.
-- **Why it matters:** This reinforces the threat model we are addressing: AI agents leveraging identity to access sensitive data. Noma's focus on identity-based attacks aligns with our least-privilege enforcement wedge, but their specific focus on identity could position them as a specialist competitor in the identity-AI intersection, potentially complicating our pitch if customers view identity and data access as separate domains.
-- **Source:** Dark Reading — [Identity-Based AI Attack Threatens Security of Enterprise Data](https://news.google.com/rss/articles/CBMingFBVV95cUxNcS0wdmZXeDJvc0dsLUNvSWhhd1R6Smp2ZEhoazVUVmZxUTJBV19HMXN0UjQxaXF1RHBRSGMwMkVSV3BmXzBIbGRYS0xwWUxzRVE5TjJYUzFhbU5XS2FGVW82VXFTQjlYRWYzMFZodV9MZ2hINVJNR2ozcS1XRDFtSGc3WHpxcWpadXdpX0wtM3h5Y2F3b3F2a2UyeDNzQQ?oc=5)
-- **Confidence:** medium
 
 _Generated by the unattended AI-SPM monitor on Riker._
