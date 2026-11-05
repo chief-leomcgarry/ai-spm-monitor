@@ -1,26 +1,32 @@
-# AI-SPM Competitor Digest — 2026-11-04
+# AI-SPM Competitor Digest — 2026-11-05
 
 ## Top of the day
-CrowdStrike has launched a dedicated "AI kill switch" and integrated its Falcon Guardian security into Anthropic’s Claude Cowork, signaling a major push to own the runtime enforcement layer for AI agents. This directly challenges Varonis’s wedge of agent blast-radius visibility by offering a "stop-the-bleeding" control that could be positioned as a prerequisite for the least-privilege enforcement we sell.
+CrowdStrike has announced the acquisition of Fiddler and Dreadnode for $495M to build a dedicated "AI agent security" platform, directly attacking our wedge of agent visibility and blast-radius control. This is a significant displacement risk as CrowdStrike leverages its endpoint footprint to bundle agent monitoring, potentially forcing us to compete on depth of data-access governance rather than just visibility.
 
 ## Events
 
-### CrowdStrike — Launches AI Kill Switch and Integrates with Anthropic Claude Cowork
-- **What changed:** CrowdStrike announced the launch of an "AI kill switch" designed to stop internal AI agents that go rogue, and simultaneously integrated its Falcon Guardian security capabilities into Anthropic’s Claude Cowork platform to protect AI agents.
-- **Why it matters:** This moves CrowdStrike from passive monitoring to active runtime intervention, directly competing with our narrative that visibility into agent data access is the first step to security. By embedding into a major LLM platform (Claude), they are attempting to define the "safe agent" standard before our least-privilege enforcement can be deployed, potentially displacing us in deals where customers prioritize immediate containment over granular data access control.
-- **Source:** CNBC — https://news.google.com/rss/articles/CBMiggFBVV95cUxQY2hvQXJrTkR2WVQzQ3lkTUNrczVfcXc2VEVSbW5tQ2hhb0pQSk5MZ0xsNjBCcW5FdlJxeTZSeF80MUw3b2hhcWk3NG5LR0RxX0pkY1ZDUWdFaWdSekJnX0Npemh1ME1TbEl3WVBtUlNmVjNyNFlpWFhHcXlvWC05U3NR0gGHAUFVX3lxTE1kb2tRX0VwdjZndEhueklPNmxSOEFMdzI4d21MajNrVlh3QW02c0hGaWxiWWRnREQ3cl9fMnU4WXVpYXZkVEk2QmlQR2RldHlQUXNtVHdMdEUtUndhUjBEYTBjNkZELTVXclUtMWpIZGhfYTJnU0FpN3JObC1Wb0s0RG45UXM5SQ?oc=5
+### CrowdStrike — Acquires Fiddler and Dreadnode to police AI agents
+- **What changed:** CrowdStrike is spending $495 million to acquire Fiddler (API observability) and Dreadnode (AI agent security) to create a unified platform that tests, watches, and stops rogue AI agents, including new "insider threat" detection capabilities for agents.
+- **Why it matters:** This is a direct head-on collision with our core value proposition. By combining API visibility (Fiddler) with agent runtime security (Dreadnode), CrowdStrike is attempting to replicate our "agent blast-radius" narrative but from the endpoint/identity side. We must sharpen our pitch to emphasize that endpoint visibility does not equal *data* visibility; we need to prove that only Varonis maps the sensitive data agents can actually touch, not just the processes they run.
+- **Source:** The Futurum Group — https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXJ0NWtEd0djTk9rU2tMR0puVUdaOHNKQmdUUXhRSVhlM3pGOHl3WFFuc2RzUXVFeThQdE41VkR1X1RRTU1nM19iNWRVekJDZHp3UHJhSjdCeGF4V1J5Z25LQy1WMFl3clk1cjJ2cjV4QVpscXJWS0dDdktiaUY0NGhqbHM3bmlneHh0SmEySU85aXM0WmQxelp4cld2akxVbi15T01KYXBkZw?oc=5
 - **Confidence:** high
 
-### Proofpoint — Publishes "Semantic Privilege Escalation" Threat Model
-- **What changed:** Proofpoint published a whitepaper/blog post titled "Semantic Privilege Escalation: The AI Security Threat Your Access Controls Can't See," arguing that traditional access controls fail to detect AI-driven privilege escalation.
-- **Why it matters:** As our pending acquirer, Proofpoint is actively shaping the market narrative around AI data access risks. By defining "semantic" threats, they are validating our core value proposition (that AI agents create new, invisible data access paths) while positioning their own platform as the solution. This reinforces the strategic rationale for the acquisition but also means we must ensure our post-close messaging aligns with this specific threat model to avoid internal narrative conflict.
-- **Source:** Proofpoint — https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeXRZa1VoZU8tejlyTUgyeExzbGtnamZyNnpKUmZzQUhKNUFHZ0RIYms4VmNuczNraGNKaXZiNl9adFRnLUVwQV9OTWJYWUk1MmVETUxsUm9mRXlQRENNa1RVVl85clJwdk1DbDd6bjdELXJQNXpPM0xxUHFlaHRqbFQtLW9QQURSbVZsN256dXFpeXVsNEljLTM5T0VJY0xSYXJHZmx6R3BLcFlxN2E3MldaS1lHRDBPbFhsTF9pOEliUmM?oc=5
+### Palo Alto Networks — Cortex XDR integrates with Claude Cowork
+- **What changed:** Palo Alto Networks announced a new integration between Cortex XDR and Claude Cowork to secure desktop AI agents, positioning it as a way to manage agents that operate outside traditional endpoint controls.
+- **Why it matters:** This signals that the "big three" (CrowdStrike, SentinelOne, PANW) are all converging on the same immediate use case: securing desktop-based agents. While they are focusing on *containment* and *endpoint* risks, they are likely missing the upstream data governance layer. We should use this to highlight that "securing the desktop" is insufficient if the agent has broad access to sensitive data repositories; our least-privilege enforcement is the missing control they are not offering.
+- **Source:** Palo Alto Networks Blog — https://www.paloaltonetworks.com/blog/2026/11/new-cortex-xdr-integration-with-claude-cowork-secures-desktop-ai-agents/
 - **Confidence:** high
 
-### SentinelOne — Debuts AI Security Lifecycle Platform
-- **What changed:** SentinelOne announced a new lifecycle platform for AI security, expanding its portfolio beyond endpoint detection to cover the full AI agent lifecycle.
-- **Why it matters:** SentinelOne is attempting to bundle AI security into its existing EDR/Cloud Security suite, creating a "good enough" alternative for customers who do not want to buy a specialized data-security tool. This increases displacement risk in mid-market deals where customers prefer a single-vendor stack, forcing us to emphasize the depth of our data-centric agent visibility over their broader but shallower security coverage.
-- **Source:** SecurityBrief Australia — https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHI2UEY2a2FGdW1xMWdENFdsTWpKVEVNTHRwb21oSC0wM0xPOGZnM0pLb1BldURnNzMyM05GT3FsYnB5eGJWbnRFQVFtU3l1TkVoeGQwOGtCbHdKWVFzLXBENUxua0FaZkw3a0ZZX1pMXzNlTEQxYm55MTBFam5TdnF3OG9wY0xQQldfTG9JTlpIdw?oc=5
-- **Confidence:** medium
+### SentinelOne — Expands AI Security Coverage to Claude Cowork
+- **What changed:** SentinelOne announced expanded AI security coverage specifically for Claude Cowork, following their broader push into AI security tools for agents.
+- **Why it matters:** Similar to Palo Alto, SentinelOne is racing to claim the "AI agent security" label. Their focus appears to be on runtime monitoring and threat detection. We need to ensure our SEs are ready to counter the narrative that "endpoint security = AI security." Our differentiator remains the *data* context: knowing *what* the agent can see, not just *where* it is running.
+- **Source:** Yahoo Finance — https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0RvSXRVaTdwOVJYOUZqaFVfY2JUd0hxVHpBc05JVjFhMmM1VGNwalM5N3JSSHNJVWNrcGxsbkFTSmphYWFYMEpuX1pMLTdHU2tvYlFZbHBoYVlIM0lkc3ZXTTVHNUFrYndjMGVXLU9lZ1p6TE5KVHNJWkV5Y2Y1NndreTdqYXZwM0M3aGt1X2NPQlk2YXJid3BjNU83b0NLTmFKYnJESQ?oc=5
+- **Confidence:** high
+
+### Proofpoint — Content on AI Agent Attack Surfaces
+- **What changed:** Proofpoint published content discussing how AI agents have different behaviors and attack surfaces compared to traditional applications, and how AI has changed the math on impersonation.
+- **Why it matters:** As our pending acquirer, Proofpoint is actively shaping the market narrative around AI risks. They are framing the problem through the lens of email/identity impersonation. We should monitor this closely to ensure that post-close, our data-security wedge is not subsumed into their identity-centric narrative. For now, this is a competitor (and future parent) trying to own the "AI risk" conversation, which we must counter with our specific data-access expertise.
+- **Source:** Proofpoint — https://news.google.com/rss/articles/CBMixwFBVV95cUxOTUt3NnFxN2pGMU53T3cwbXQtYUpYQ2NmbVFzRlc0WnNvdjNPcXNyY00xV1lhTW1mcWFNODRZZ2RKNC1MSXU1cUxraDZPaHMzME5NMUZtakt2c2ZGWk5CMGRaSktsX3VySFVYRlVIb3dTX1FiYU5KOVl1RlJWc2FRd1Z6aG9FSXJ4WFFWTHB5bWI4VzBQTUwtU1UtNFUyR3ZOS1dZRGNrZURINnRLYmVCWWRkWUdueFpCakt6UXlIMThKcVlxRG1j?oc=5
+- **Confidence:** high
 
 _Generated by the unattended AI-SPM monitor on Riker._
