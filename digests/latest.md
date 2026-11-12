@@ -1,26 +1,32 @@
-# AI-SPM Competitor Digest — 2026-11-11
+# AI-SPM Competitor Digest — 2026-11-12
 
 ## Top of the day
-CrowdStrike has announced the acquisition of Fiddler to launch "Falcon Observe" for AI agent observability, directly attacking our core wedge of agent blast-radius visibility and signaling a major consolidation of the AI-security market that will intensify competition for enterprise deals.
+The most material development today is the continued circulation of the definitive agreement for Proofpoint’s acquisition of Varonis for ~$6.3B, which cements our strategic pivot toward securing AI agent data access. This event is critical for our internal narrative as we transition from a standalone vendor to a core component of Proofpoint’s expanded AI security portfolio, directly validating our "agent blast-radius" wedge in the market.
 
 ## Events
 
-### CrowdStrike — Acquires Fiddler to launch Falcon Observe for AI Agent Observability
-- **What changed:** CrowdStrike announced it will acquire Fiddler to deliver "Falcon Observe," a new capability specifically focused on AI agent observability.
-- **Why it matters:** This is a direct displacement threat to our primary value proposition; by bundling agent visibility into the dominant EDR platform, CrowdStrike can package "agent blast-radius" monitoring as a standard feature, forcing us to compete on depth of sensitive-data context and automated least-privilege enforcement rather than basic visibility.
-- **Source:** CrowdStrike — https://news.google.com/rss/articles/CBMiekFVX3lxTE11R3ViUW1KR0NFWkNqQmxJRmJsY0dXRGliWldCWXY5bFJzOTRLTVB1WDVlTmEtRXVUVUZ3akY1c00tNU1KTU1yRGxid2dYM2ZPalAwa0dYemVKemNmdkxMVkxqbS1kREVYRDVvbHJIZDhOaDJzc09mcGZB?oc=5
+### Proofpoint — Acquires Varonis for $6.3B to Secure AI Agent Data Access
+- **What changed:** MarketScale reports on the definitive agreement for Proofpoint to acquire Varonis for approximately $6.3 billion, explicitly framing the deal as a move to "guard what AI agents can reach."
+- **Why it matters:** This confirms that our core value proposition—visibility into AI agents and the sensitive data they can access—is now the primary strategic asset driving a major consolidation in the security market. For our SE and leadership teams, this shifts the competitive landscape from "Varonis vs. others" to "Proofpoint+Varonis vs. others," requiring us to align our pitch immediately with Proofpoint’s broader platform narrative while the deal is pending.
+- **Source:** MarketScale — https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzJoOXM3aU1Ec3V4Q09mSnpYVFM2VWVCZ1N6b2FXRGxVb0RFdHdvUi1YaVk1c0VOc0EwX1JWMnZHY19GLW04UEg2R3FyU01nZHFKNnFNUC1nb1I0STMzMUhrWWRmeW03VnEzdFplOE45UTA5bUwzT2JWSGczcmF3Q1NvTW1EdG1wR2JzWkhFWnl5cDZTN3JqR3U4WHFndTlYTWVnV0JsOFNDTDVsemFXOUxlbUhqamZJanotWm8tTTJ6RjYtMFFZaXJqS1VKeGh1OHE3eUdYVQ?oc=5
 - **Confidence:** high
 
-### Cyera — Launches "Cy Agents" and Endpoint DLP
-- **What changed:** Cyera introduced "Cy Agents," a suite of AI security agents designed to prioritize risk and investigate alerts using business context, alongside a new Endpoint DLP product that uses on-device AI to block risky data transfers.
-- **Why it matters:** Cyera is aggressively expanding from data discovery into active agent-based response and endpoint control, blurring the line between data security and AI-agent security; this increases the risk that prospects view our agent blast-radius solution as redundant with their existing data-security vendor's new "AI-native" features.
-- **Source:** Cyera — https://www.cyera.com/blog/introducing-cy-agents-protect-at-the-speed-of-ai-with-agents-that-know-what-matters-to-your-business
-- **Confidence:** high
-
-### Proofpoint — UAE Market Expansion Focus on AI Security
-- **What changed:** Gulf Business reported on Proofpoint's efforts to address AI security and control challenges for businesses in the UAE, highlighting the region's rapid AI adoption.
-- **Why it matters:** As our pending acquirer, Proofpoint is actively positioning in the Middle East for AI security; this suggests that post-close, our go-to-market strategy in the UAE will likely be subsumed into Proofpoint's broader AI-security narrative, potentially altering our regional deal dynamics and customer relationships.
-- **Source:** Gulf Business — https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlZzVElvMWctaG90azVsZFFqMFc2VUY1dXllRkxrSzYzTVdBTURUS005NkR3UHlKMm5Xb3hiSGJGX2c1SWR1SkMwWjFHcFN1NXI3b185Y1hnV2dyTmxtVTJrejRyUmktZW9RR05ITnczUDNMOE5ONGE3UFJOdEtnM1lKQllDYWxaTXc4SGFqOFJnVGwtX1RIT0VlcjBlTGNrd0FXWVpma19UQXZLcGR0U0hn?oc=5
+### SentinelOne — Expands AI Security Coverage to Claude Cowork
+- **What changed:** SentinelOne has expanded its AI security coverage to include Anthropic’s "Claude Cowork" agent, integrating it into their existing security stack.
+- **Why it matters:** This is a direct displacement risk for deals where customers are evaluating agent-specific visibility. By naming a specific, high-profile agent (Claude Cowork), SentinelOne is attempting to claim the "agent runtime" security space, which overlaps with our blast-radius visibility. We must ensure our pitch emphasizes that we provide the *data context* (what sensitive data the agent can touch) that SentinelOne’s endpoint-centric approach may lack, rather than just agent detection.
+- **Source:** VMblog — https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWM2OFRfdHRSMjlxc21Ec2RLOXZyQmluVGVxMzFmYVdDeVNkcl8wNk4xeTZJY1NDdnBka01nMl9MMnVnZ3Q4WjVON1lWUzJjWjNBV0p4V3pzdDFLeGhVMEdGUjVqb2RNN2xtR3VaWTBWYmY0TGYzUVZsOG51amZKWm9lOXRjUG0xVkE?oc=5
 - **Confidence:** medium
+
+### CrowdStrike — Named a Leader in 2026 IDC MarketScape for Augmented Identity Security
+- **What changed:** CrowdStrike has been named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions.
+- **Why it matters:** While this is an identity-focused award, CrowdStrike’s push into "augmented identity" often includes AI agent identity management. This reinforces their strategy of bundling identity and endpoint security, which could be used to discount our standalone agent visibility capabilities. We should counter by highlighting that identity alone does not provide the *data access* visibility required to manage agent blast radius, a gap CrowdStrike’s identity-centric model may not fully address.
+- **Source:** CrowdStrike Blog — https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/
+- **Confidence:** high
+
+### Cyera — Publishes Multiple "Best of" AI Security and AI-SPM Lists
+- **What changed:** Cyera has published three separate blog posts ranking "Best AI Security Platforms," "Best AI-SPM Tools," and "Best AI Data Security Platforms," all published on the same day.
+- **Why it matters:** This is a coordinated content marketing push to position Cyera as the category leader in AI data security. By controlling the narrative on what constitutes an "AI-SPM tool," they are attempting to define the market terms. We need to monitor these lists to see how they categorize Varonis (or if they omit us) and prepare counter-narratives that emphasize our unique "agent blast-radius" focus over their broader data security claims.
+- **Source:** Cyera Blog — https://www.cyera.com/blog/ai-spm-tools
+- **Confidence:** high
 
 _Generated by the unattended AI-SPM monitor on Riker._
