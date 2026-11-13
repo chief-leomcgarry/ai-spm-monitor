@@ -1,32 +1,32 @@
-# AI-SPM Competitor Digest — 2026-11-12
+# AI-SPM Competitor Digest — 2026-11-13
 
 ## Top of the day
-The most material development today is the continued circulation of the definitive agreement for Proofpoint’s acquisition of Varonis for ~$6.3B, which cements our strategic pivot toward securing AI agent data access. This event is critical for our internal narrative as we transition from a standalone vendor to a core component of Proofpoint’s expanded AI security portfolio, directly validating our "agent blast-radius" wedge in the market.
+CrowdStrike has announced the acquisition of Dreadnode to bolster its automated AI security testing capabilities, signaling a major consolidation of AI security features within their platform. This move intensifies the "platformization" threat, where CrowdStrike bundles AI agent visibility and testing into their existing EDR footprint, potentially displacing point solutions in our pipeline.
 
 ## Events
 
-### Proofpoint — Acquires Varonis for $6.3B to Secure AI Agent Data Access
-- **What changed:** MarketScale reports on the definitive agreement for Proofpoint to acquire Varonis for approximately $6.3 billion, explicitly framing the deal as a move to "guard what AI agents can reach."
-- **Why it matters:** This confirms that our core value proposition—visibility into AI agents and the sensitive data they can access—is now the primary strategic asset driving a major consolidation in the security market. For our SE and leadership teams, this shifts the competitive landscape from "Varonis vs. others" to "Proofpoint+Varonis vs. others," requiring us to align our pitch immediately with Proofpoint’s broader platform narrative while the deal is pending.
-- **Source:** MarketScale — https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzJoOXM3aU1Ec3V4Q09mSnpYVFM2VWVCZ1N6b2FXRGxVb0RFdHdvUi1YaVk1c0VOc0EwX1JWMnZHY19GLW04UEg2R3FyU01nZHFKNnFNUC1nb1I0STMzMUhrWWRmeW03VnEzdFplOE45UTA5bUwzT2JWSGczcmF3Q1NvTW1EdG1wR2JzWkhFWnl5cDZTN3JqR3U4WHFndTlYTWVnV0JsOFNDTDVsemFXOUxlbUhqamZJanotWm8tTTJ6RjYtMFFZaXJqS1VKeGh1OHE3eUdYVQ?oc=5
+### CrowdStrike — Acquires Dreadnode for automated AI security testing
+- **What changed:** CrowdStrike announced it will acquire Dreadnode, a startup focused on automated AI security testing, as part of a broader push to deliver "AI Security and Safety for the Enterprise."
+- **Why it matters:** This acquisition allows CrowdStrike to bundle AI agent risk assessment and testing directly into their endpoint agent. For us, this creates a direct displacement risk in deals where CrowdStrike is the incumbent EDR provider; they can now claim to cover "AI security" natively, forcing us to sharpen our pitch on *data-centric* blast radius and least-privilege enforcement rather than just model testing.
+- **Source:** Beinsure — https://news.google.com/rss/articles/CBMia0FVX3lxTE55VkVQTUJ0cGtiVDB4T3NUY3RBa0ZpNk1jLXdZU1dqR1Y4RE9KMkNXMlVUbzc5YUpFdDBrUGxCSlpaUi01WTNrM1N4TVcyM1ZoZms0aFVCeFlEamFXdkxkWnZsbVNxWFRPajYw
 - **Confidence:** high
 
 ### SentinelOne — Expands AI Security Coverage to Claude Cowork
-- **What changed:** SentinelOne has expanded its AI security coverage to include Anthropic’s "Claude Cowork" agent, integrating it into their existing security stack.
-- **Why it matters:** This is a direct displacement risk for deals where customers are evaluating agent-specific visibility. By naming a specific, high-profile agent (Claude Cowork), SentinelOne is attempting to claim the "agent runtime" security space, which overlaps with our blast-radius visibility. We must ensure our pitch emphasizes that we provide the *data context* (what sensitive data the agent can touch) that SentinelOne’s endpoint-centric approach may lack, rather than just agent detection.
-- **Source:** VMblog — https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWM2OFRfdHRSMjlxc21Ec2RLOXZyQmluVGVxMzFmYVdDeVNkcl8wNk4xeTZJY1NDdnBka01nMl9MMnVnZ3Q4WjVON1lWUzJjWjNBV0p4V3pzdDFLeGhVMEdGUjVqb2RNN2xtR3VaWTBWYmY0TGYzUVZsOG51amZKWm9lOXRjUG0xVkE?oc=5
+- **What changed:** SentinelOne announced expanded AI security coverage specifically for Anthropic's "Claude Cowork" agent.
+- **Why it matters:** This indicates SentinelOne is moving quickly to integrate with specific, popular AI agent frameworks to capture early-adopter budgets. While this is a point-solution approach, it validates the market's focus on agent-specific visibility. We must ensure our visibility layer is agnostic and covers the broader ecosystem, positioning ourselves as the comprehensive data-access control layer that SentinelOne’s point coverage may lack.
+- **Source:** SentinelOne — https://news.google.com/rss/articles/CBMilwFBVV95cUxPSXRNVXM0clFTRHBGZVRRT3VFbUZBR1FFZHZGLUlIZVhqMnlSLXA1SG5WTklUMUJTS1I2VEhYa1ZQdUFoM2xFNFhiQ2JwMFJXYWxVdTd5Y3dKS1hnMTRPeEhidHB6WWN6a1NBNXNCaVZtNVJTNXFVZGF3LXdIb2NOejlOMUE5OUJ6RnIxTEMyaW5YRXVoWlQ4
+- **Confidence:** high
+
+### Onyx — Raises $20M to keep AI agents in line with more AI agents
+- **What changed:** Startup Onyx raised $20 million to develop a solution that uses AI agents to monitor and constrain other AI agents.
+- **Why it matters:** This is a new entrant focusing on "agent-to-agent" governance. While their revenue is likely early-stage, their funding signals investor appetite for autonomous agent control. We should monitor their technical approach to see if they overlap with our least-privilege enforcement wedge, but currently, they represent a niche threat rather than a broad platform displacement risk.
+- **Source:** Business Insider Africa — https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFBxb3pKUVFPbUlIcDczN3ZXQjY1My1zaURBc292T0NXSEhyMUZWdVljYV9GRHU4bDZWMkJxVGc1UDlWYlhQa3A4WlBwbUpFRUJyQmtyRjBmcm1XaWZUNjJNSW9pWmx2VUZNMVFudTZoZmpUbTV5bncxMlkwVVc3dWQ0YTJMTG5ab0VRclJHUWlvZENXTThSTG83N0lBdWJYWUYwZ010WmRaOWVveUxlckJ5WTNzMWFRX0hNbWV1VGdDdnNteTNPRDRB
 - **Confidence:** medium
 
-### CrowdStrike — Named a Leader in 2026 IDC MarketScape for Augmented Identity Security
-- **What changed:** CrowdStrike has been named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions.
-- **Why it matters:** While this is an identity-focused award, CrowdStrike’s push into "augmented identity" often includes AI agent identity management. This reinforces their strategy of bundling identity and endpoint security, which could be used to discount our standalone agent visibility capabilities. We should counter by highlighting that identity alone does not provide the *data access* visibility required to manage agent blast radius, a gap CrowdStrike’s identity-centric model may not fully address.
-- **Source:** CrowdStrike Blog — https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/
-- **Confidence:** high
-
-### Cyera — Publishes Multiple "Best of" AI Security and AI-SPM Lists
-- **What changed:** Cyera has published three separate blog posts ranking "Best AI Security Platforms," "Best AI-SPM Tools," and "Best AI Data Security Platforms," all published on the same day.
-- **Why it matters:** This is a coordinated content marketing push to position Cyera as the category leader in AI data security. By controlling the narrative on what constitutes an "AI-SPM tool," they are attempting to define the market terms. We need to monitor these lists to see how they categorize Varonis (or if they omit us) and prepare counter-narratives that emphasize our unique "agent blast-radius" focus over their broader data security claims.
-- **Source:** Cyera Blog — https://www.cyera.com/blog/ai-spm-tools
-- **Confidence:** high
+### HiddenLayer — Receives investment from Erie Strategic Ventures
+- **What changed:** Erie Strategic Ventures invested in HiddenLayer to advance enterprise AI infrastructure and security.
+- **Why it matters:** HiddenLayer is a direct competitor in AI model security. This capital injection will likely accelerate their R&D and sales efforts. We need to be prepared for increased competitive pressure in deals where model integrity is the primary concern, reinforcing the need to differentiate our value proposition on *data access* and *blast radius* rather than just model security.
+- **Source:** Pulse 2.0 — https://news.google.com/rss/articles/CBMizwFBVV95cUxPWTdMZEh4aEVuUzRVVGpsMHAzcVM3Y18xVHhwMXd3WGtlY3RSS3ZVUWpCRllybDZVbFlPckptQzAtaEJPVFpOaFY3UERkQ3FNMDE5V2ZtdjhrTk1QT2NQSFd5b2lKOVpKZW02Yk5RSEwydm1icjNxSWtzLTdZU2dZZEJXRU0tS1NnR1VDbDFZM2pQRHlRZTZLQ1k0RDZEODZfanlDZEJnRnZncHRGaDRzb2N6ODc0d29vLWkwVVFkR2JxaUJZQ2oyYjByN1BEaUU
+- **Confidence:** medium
 
 _Generated by the unattended AI-SPM monitor on Riker._
