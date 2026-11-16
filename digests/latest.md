@@ -1,32 +1,32 @@
-# AI-SPM Competitor Digest — 2026-11-13
+# AI-SPM Competitor Digest — 2026-11-16
 
 ## Top of the day
-CrowdStrike has announced the acquisition of Dreadnode to bolster its automated AI security testing capabilities, signaling a major consolidation of AI security features within their platform. This move intensifies the "platformization" threat, where CrowdStrike bundles AI agent visibility and testing into their existing EDR footprint, potentially displacing point solutions in our pipeline.
+CrowdStrike’s aggressive consolidation of AI agent security via the acquisition of Fiddler AI and Dreadnode, combined with the launch of Falcon AI Gateway, signals a direct threat to our "agent blast-radius" wedge by bundling endpoint-level agent controls with network traffic inspection into a single platform. Simultaneously, Onyx Security’s integration with Glean creates a new, specialized competitor specifically targeting the governance of AI agents within enterprise search and knowledge platforms, a high-value segment where Varonis currently holds strong ground.
 
 ## Events
 
-### CrowdStrike — Acquires Dreadnode for automated AI security testing
-- **What changed:** CrowdStrike announced it will acquire Dreadnode, a startup focused on automated AI security testing, as part of a broader push to deliver "AI Security and Safety for the Enterprise."
-- **Why it matters:** This acquisition allows CrowdStrike to bundle AI agent risk assessment and testing directly into their endpoint agent. For us, this creates a direct displacement risk in deals where CrowdStrike is the incumbent EDR provider; they can now claim to cover "AI security" natively, forcing us to sharpen our pitch on *data-centric* blast radius and least-privilege enforcement rather than just model testing.
-- **Source:** Beinsure — https://news.google.com/rss/articles/CBMia0FVX3lxTE55VkVQTUJ0cGtiVDB4T3NUY3RBa0ZpNk1jLXdZU1dqR1Y4RE9KMkNXMlVUbzc5YUpFdDBrUGxCSlpaUi01WTNrM1N4TVcyM1ZoZms0aFVCeFlEamFXdkxkWnZsbVNxWFRPajYw
+### CrowdStrike — Acquires Fiddler AI and Dreadnode to expand AI agent security portfolio
+- **What changed:** CrowdStrike announced the acquisition of Fiddler AI (AI traffic observability) and Dreadnode (AI agent security), following the recent launch of Falcon AI Gateway and Falcon Guardian.
+- **Why it matters:** This move allows CrowdStrike to bundle endpoint-based agent visibility (Falcon Guardian) with network-level AI traffic monitoring (Fiddler), creating a comprehensive "AI security suite" that competes directly with Varonis’s ability to map agent data access and enforce least privilege. We risk displacement in deals where customers prefer a single-vendor solution for both endpoint and network AI visibility, particularly if CrowdStrike can demonstrate that their endpoint agent controls effectively mitigate the "blast radius" without needing deep data-layer visibility.
+- **Source:** CyberWire — https://news.google.com/rss/articles/CBMia0FVX3lxTE9QZzB1NXRTVXNUQXNxQ1pTOTZFQXVsNnZrcnFEc0dNMWNlelhmb1k5XzBPRm1FU3BsSFdSbkhSaTJFXzFSOHF1NVdCdldSMjNtSWYzQl9JclE3QzdldGozMDhSdEZxMWNuM3Iw?oc=5
 - **Confidence:** high
 
-### SentinelOne — Expands AI Security Coverage to Claude Cowork
-- **What changed:** SentinelOne announced expanded AI security coverage specifically for Anthropic's "Claude Cowork" agent.
-- **Why it matters:** This indicates SentinelOne is moving quickly to integrate with specific, popular AI agent frameworks to capture early-adopter budgets. While this is a point-solution approach, it validates the market's focus on agent-specific visibility. We must ensure our visibility layer is agnostic and covers the broader ecosystem, positioning ourselves as the comprehensive data-access control layer that SentinelOne’s point coverage may lack.
-- **Source:** SentinelOne — https://news.google.com/rss/articles/CBMilwFBVV95cUxPSXRNVXM0clFTRHBGZVRRT3VFbUZBR1FFZHZGLUlIZVhqMnlSLXA1SG5WTklUMUJTS1I2VEhYa1ZQdUFoM2xFNFhiQ2JwMFJXYWxVdTd5Y3dKS1hnMTRPeEhidHB6WWN6a1NBNXNCaVZtNVJTNXFVZGF3LXdIb2NOejlOMUE5OUJ6RnIxTEMyaW5YRXVoWlQ4
+### Onyx Security — Integrates AI agent governance into Glean’s enterprise AI platform
+- **What changed:** Onyx Security has launched an integration that brings AI agent governance capabilities directly into Glean’s enterprise AI platform.
+- **Why it matters:** Glean is a primary vector for AI agent data access in many enterprises. By embedding governance controls directly into the Glean platform, Onyx is targeting the exact "agent blast radius" problem Varonis solves, but from the application layer rather than the data layer. This creates a competitive dynamic where customers may choose Onyx for "native" Glean security, potentially bypassing Varonis’s data-centric visibility. We must emphasize that data-layer enforcement is superior to application-layer governance for preventing sensitive data leakage via agents.
+- **Source:** SiliconANGLE — https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHVzemZqeXB0X09ESWFfa0VDbkRuSkxvVUl6WEdjemJ4YnBWNFk4MVg5TmRlRTZzTl9zbDFBdFEyeWdwTnI1MkM0cXdReTZQRm1KN21WMWhOaTZjMkZDcWF1cWROTzh4eWhtRmhiZlIxUVpDYlY2b0MtT3RsYjFhZ3B6NDVvVXl4OHluU0gzNVNEZ3RzSWZXTFQyTjc3ZWRMQmFiMWs1NDUyVTM4NVFJaG1mMkZvTzBsNDEtUg?oc=5
 - **Confidence:** high
 
-### Onyx — Raises $20M to keep AI agents in line with more AI agents
-- **What changed:** Startup Onyx raised $20 million to develop a solution that uses AI agents to monitor and constrain other AI agents.
-- **Why it matters:** This is a new entrant focusing on "agent-to-agent" governance. While their revenue is likely early-stage, their funding signals investor appetite for autonomous agent control. We should monitor their technical approach to see if they overlap with our least-privilege enforcement wedge, but currently, they represent a niche threat rather than a broad platform displacement risk.
-- **Source:** Business Insider Africa — https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFBxb3pKUVFPbUlIcDczN3ZXQjY1My1zaURBc292T0NXSEhyMUZWdVljYV9GRHU4bDZWMkJxVGc1UDlWYlhQa3A4WlBwbUpFRUJyQmtyRjBmcm1XaWZUNjJNSW9pWmx2VUZNMVFudTZoZmpUbTV5bncxMlkwVVc3dWQ0YTJMTG5ab0VRclJHUWlvZENXTThSTG83N0lBdWJYWUYwZ010WmRaOWVveUxlckJ5WTNzMWFRX0hNbWV1VGdDdnNteTNPRDRB
+### Cyera — Publishes framework for scoped AI agent access using EMA, ID-JAG, and XAA
+- **What changed:** Cyera Identity has published a technical framework supporting EMA, ID-JAG, XAA, and OAuth Token Exchange to provide AI agents with scoped, policy-evaluated access that expires when tasks end.
+- **Why it matters:** This positions Cyera as a leader in "agentic access management," directly challenging Varonis’s narrative on least-privilege enforcement for AI agents. By focusing on token exchange and scoped access, Cyera is attempting to define the standard for how agents should interact with data. We need to counter this by highlighting that token scoping alone does not provide the full visibility into *what* data an agent can actually reach across the enterprise, which is Varonis’s core strength.
+- **Source:** Cyera Blog — https://www.cyera.com/blog/ema-id-jag-xaa-token-exchange
 - **Confidence:** medium
 
-### HiddenLayer — Receives investment from Erie Strategic Ventures
-- **What changed:** Erie Strategic Ventures invested in HiddenLayer to advance enterprise AI infrastructure and security.
-- **Why it matters:** HiddenLayer is a direct competitor in AI model security. This capital injection will likely accelerate their R&D and sales efforts. We need to be prepared for increased competitive pressure in deals where model integrity is the primary concern, reinforcing the need to differentiate our value proposition on *data access* and *blast radius* rather than just model security.
-- **Source:** Pulse 2.0 — https://news.google.com/rss/articles/CBMizwFBVV95cUxPWTdMZEh4aEVuUzRVVGpsMHAzcVM3Y18xVHhwMXd3WGtlY3RSS3ZVUWpCRllybDZVbFlPckptQzAtaEJPVFpOaFY3UERkQ3FNMDE5V2ZtdjhrTk1QT2NQSFd5b2lKOVpKZW02Yk5RSEwydm1icjNxSWtzLTdZU2dZZEJXRU0tS1NnR1VDbDFZM2pQRHlRZTZLQ1k0RDZEODZfanlDZEJnRnZncHRGaDRzb2N6ODc0d29vLWkwVVFkR2JxaUJZQ2oyYjByN1BEaUU
-- **Confidence:** medium
+### CrowdStrike — Launches Falcon AI Gateway as a single control point for AI traffic
+- **What changed:** CrowdStrike introduced Falcon AI Gateway, designed to act as a unified control point for monitoring and securing AI traffic.
+- **Why it matters:** This reinforces CrowdStrike’s strategy of becoming the "AI security platform" of choice. By controlling the traffic layer, they can potentially bypass the need for deep data-layer visibility tools like Varonis in their pitch. We must differentiate by arguing that traffic inspection cannot replace the need to understand the *sensitivity* of the data being accessed, which is critical for true blast-radius containment.
+- **Source:** CrowdStrike Blog — https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/
+- **Confidence:** high
 
 _Generated by the unattended AI-SPM monitor on Riker._
