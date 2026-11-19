@@ -1,32 +1,26 @@
-# AI-SPM Competitor Digest — 2026-11-18
+# AI-SPM Competitor Digest — 2026-11-19
 
 ## Top of the day
-Cyera has launched a specific integration with Microsoft Agent 365 and Sentinel to provide data-aware runtime findings for AI agents, directly targeting the "agent blast radius" narrative that is central to our positioning. This move signals an aggressive push by Cyera to embed their data governance capabilities into the Microsoft ecosystem, potentially displacing us in deals where Microsoft is the primary AI platform and data visibility is the primary security concern.
+Palo Alto Networks has secured official U.S. government approval for its "Secure SI by Design" consortium, a significant strategic move that signals a push to embed security controls into the foundational architecture of AI systems, potentially shifting the market conversation from post-deployment visibility (our wedge) to pre-deployment design compliance.
 
 ## Events
 
-### Cyera — Launches Agent Guardian integration with Microsoft Agent 365 and Sentinel
-- **What changed:** Cyera announced "Agent Guardian," which sends data-aware runtime findings to Microsoft Sentinel to enrich Microsoft Agent 365 risk scores, specifically showing what AI agents do with sensitive data.
-- **Why it matters:** This directly competes with our core value proposition of visualizing agent access to sensitive data. By integrating into Microsoft Sentinel and Agent 365, Cyera is positioning itself as the native data-security layer for Microsoft-centric AI deployments, creating a significant displacement risk for our deals where customers are heavily invested in the Microsoft stack and prefer native or tightly integrated solutions.
-- **Source:** Cyera Blog — https://www.cyera.com/blog/cyera-agent-guardian-microsoft-agent-365
+### Palo Alto Networks — Secure SI by Design Consortium Approved by U.S. Government
+- **What changed:** The U.S. government has officially approved the Secure SI by Design Consortium, an industry coalition led by Palo Alto Networks alongside major tech players like NVIDIA, OpenAI, and Snowflake.
+- **Why it matters:** This legitimizes a "secure-by-design" narrative that could pressure buyers to prioritize architectural controls over runtime visibility. We must counter this by emphasizing that design-time controls cannot account for the dynamic, real-time blast radius of AI agents accessing sensitive data, reinforcing our position as the necessary runtime enforcement layer.
+- **Source:** Palo Alto Networks Blog — https://www.paloaltonetworks.com/blog/2026/11/secure-si-by-design-consortium-officially-approved-by-u-s-government/
 - **Confidence:** high
 
-### Cyera — Announces Snowflake-specific AI data protection capabilities
-- **What changed:** Cyera published a blog post detailing how their platform helps Snowflake teams discover sensitive data, apply masking policies, and govern "Cortex agents" to ensure confident AI usage.
-- **Why it matters:** This highlights Cyera's strategy to lock in data governance at the data source (Snowflake) rather than just the agent layer. For us, this is a threat in environments where Snowflake is the primary data lake, as Cyera is offering a bundled solution for both data discovery and agent governance, potentially reducing the need for a separate agent-security vendor like Varonis.
-- **Source:** Cyera Blog — https://www.cyera.com/blog/protect-your-enterprise-ai-in-snowflake-with-cyera
-- **Confidence:** high
-
-### Noma Security — Partners with AWS for runtime governance via AgentCore Gateway
-- **What changed:** AWS published a case study or announcement regarding "Runtime governance for AI agents with Noma Security and AgentCore Gateway," indicating a partnership to govern AI agents at runtime within the AWS ecosystem.
-- **Why it matters:** Noma is positioning itself as the runtime governance layer for AWS-native AI agents. This is a direct threat to our AWS-focused deals, as customers looking for agent security in AWS may choose Noma due to its native integration with AgentCore Gateway, potentially bypassing our broader data-security platform.
-- **Source:** Amazon Web Services (AWS) — https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWlvY0JjVmZRMTZvd29mQVRpQmszdjJ2eV9ia0ZuaXJuaTJVcmRLNXdmNlg0eUg5RFhGMlp3ZlpCYVc3S0ZiZ0JHOGNpcFNXNFhYamthOVB2NzN1alJGUDdLYndfR25sQmJKLUp4RGZSNWRfOU9ZMDNWeXFEVXJjYU5xd2VKRUlOMHNFXzM2ZGJ6SkNZbkowd0V4cTc3Vl9XMnE2ckh3LUhSWTA?oc=5
-- **Confidence:** high
-
-### CrowdStrike — Hitachi Systems India opens Bengaluru center for AI-powered cybersecurity
-- **What changed:** Hitachi Systems India opened a new center in Bengaluru to strengthen AI-powered cybersecurity capabilities, likely in partnership with or leveraging CrowdStrike technologies.
-- **Why it matters:** While this is a regional expansion, it indicates CrowdStrike's continued investment in AI security infrastructure and local support. This strengthens their ability to compete in APAC markets, where they may bundle their AI security offerings with broader endpoint protection, potentially squeezing our market share in that region.
-- **Source:** City Today News — https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzQ5dTgwbkNObjgzdExFaG9EWW9RRl9RckM1WW1tTlJ1VUQ0SmZtSnFiX3NnNlozb3BwRFQtbmZGbEpRMHVxQ3FvV00yQUZNeE9xSkVCQzF1dUJlLUZLcHVRVS1tX2dxTXpGNGQwZEVzQ3VyWUx0WGdzN2M5SXBKbFZPV0U0SnZIN2dEdmVwMlkwX09UbENGSU8yd0dxcUZBZlZrQVc4bEVMalR2QzA0b3VzWmxnMnVKc3Nr?oc=5
+### CrowdStrike — Launches Advanced Global Delivery Centre in Bengaluru
+- **What changed:** Hitachi Systems India has launched an Advanced Global Delivery Centre in Bengaluru in partnership with CrowdStrike, focused on AI-led cybersecurity services.
+- **Why it matters:** This indicates CrowdStrike is scaling its service delivery capabilities to support AI security implementations, potentially allowing them to bundle their Falcon platform with managed services that could compete with our implementation and advisory offerings. We should monitor if this center specifically targets AI-agent security use cases to assess displacement risk in the services market.
+- **Source:** Veloxx media — https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGtJNEtreXU5Q0NSOTMxN1BteW5FQ1NJTUlVcnZoR21HNnpuZ04xVnFxYnhMTG5ZOHJLU1VSaFNRSTBZWDNmbjN2WXlqM3pEUUNXQ19ERmlYNVhKX045V3R2aXZPcDR0R3NYa0pyR29uZDdoclhSNUctSnU3TDZQV3dGTFRmaTA2N2xmcDRveUVxMzFlc2g4QTktYi03djBueUgxWFlPVGM4RG8xOXNYZENXRHdBTUFP?oc=5
 - **Confidence:** medium
+
+### Cyera — Content Marketing on AI Agent Access Trails
+- **What changed:** Cyera published a blog post targeting financial institutions, discussing how to build data trails for GDPR, audits, and specifically "AI agent access."
+- **Why it matters:** This confirms Cyera is actively positioning their data security platform as a solution for AI agent governance and compliance. They are directly targeting the same "sensitive data access" wedge we own, but framing it through a compliance/audit lens rather than security enforcement. We need to ensure our messaging differentiates between passive data trails (Cyera) and active least-privilege enforcement (Varonis) to prevent commoditization of the AI-agent visibility category.
+- **Source:** Cyera Blog — https://www.cyera.com/blog/show-your-work-every-transaction-has-a-trail
+- **Confidence:** high
 
 _Generated by the unattended AI-SPM monitor on Riker._
