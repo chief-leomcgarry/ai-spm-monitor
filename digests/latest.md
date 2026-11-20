@@ -1,26 +1,26 @@
-# AI-SPM Competitor Digest — 2026-11-19
+# AI-SPM Competitor Digest — 2026-11-20
 
 ## Top of the day
-Palo Alto Networks has secured official U.S. government approval for its "Secure SI by Design" consortium, a significant strategic move that signals a push to embed security controls into the foundational architecture of AI systems, potentially shifting the market conversation from post-deployment visibility (our wedge) to pre-deployment design compliance.
+CrowdStrike is aggressively expanding its "AI Security" brand through new delivery centers and vulnerability response content, signaling a push to bundle AI-specific protections into its broader endpoint and cloud security suite. This increases the risk of displacement in enterprise deals where CrowdStrike is already the primary EDR provider, as they attempt to own the "AI security" narrative before specialized agents like ours can establish distinct value in agent blast-radius visibility.
 
 ## Events
 
-### Palo Alto Networks — Secure SI by Design Consortium Approved by U.S. Government
-- **What changed:** The U.S. government has officially approved the Secure SI by Design Consortium, an industry coalition led by Palo Alto Networks alongside major tech players like NVIDIA, OpenAI, and Snowflake.
-- **Why it matters:** This legitimizes a "secure-by-design" narrative that could pressure buyers to prioritize architectural controls over runtime visibility. We must counter this by emphasizing that design-time controls cannot account for the dynamic, real-time blast radius of AI agents accessing sensitive data, reinforcing our position as the necessary runtime enforcement layer.
-- **Source:** Palo Alto Networks Blog — https://www.paloaltonetworks.com/blog/2026/11/secure-si-by-design-consortium-officially-approved-by-u-s-government/
+### CrowdStrike — Launches AI Security Centre with Hitachi Systems India
+- **What changed:** CrowdStrike and Hitachi Systems India announced the launch of an "AI Security Centre" and an advanced global delivery center focused on AI security services (reported Nov 17).
+- **Why it matters:** This move signals CrowdStrike’s intent to productize and serviceize AI security, potentially bundling it with their existing Falcon platform. For Varonis, this raises the bar for differentiation; we must emphasize that CrowdStrike’s approach is likely focused on model integrity and endpoint behavior, whereas our wedge is specifically into *data* visibility and least-privilege enforcement for AI agents accessing sensitive data.
+- **Source:** Rediff MoneyWiz — https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjNkZmNhSHRnZW5xUjdweU1mYXVRVHBkc1VFTGNQS0llb2hPZG11N3pvcG9GYm5oRW9wRWI2LXFwMWhqT0UtbFhOTGFrUmsxTnZ4TkFzd3FBMDM1cXBieHAtM3ZKTzF2M1pjZ2ZHZkJRcXd4LWlxUmw4QUhsRHZqNmQ0V2Q4aVp2UHVSTS15VzlaN2RMY3RILWVXeVlTZGJsZ1h1ZGpteUxuQkhRNjFteNIBtgFBVV95cUxOSXN3YmdCTkRpMVF5NHRqekN4QXNlM19WMmNnQmJaNGgyc0FOQ1g4MmlUSGhFNTZnVTRMLWVQMUl5dk1hdjE5dF90bDcyR1U4ckFWTVlUc2pmTFZxYy04SkRYVzdCOHdLaDllbHk0bmJ5bnNTdjU0NktSd2VxaENESHFHSmpSbHR6SGVTYl82RFZ0MEpXYU5YUlRDUm00SDE2SDFyc2I5aG96MVRZQ0h0bU9Uei1RQQ?oc=5
 - **Confidence:** high
 
-### CrowdStrike — Launches Advanced Global Delivery Centre in Bengaluru
-- **What changed:** Hitachi Systems India has launched an Advanced Global Delivery Centre in Bengaluru in partnership with CrowdStrike, focused on AI-led cybersecurity services.
-- **Why it matters:** This indicates CrowdStrike is scaling its service delivery capabilities to support AI security implementations, potentially allowing them to bundle their Falcon platform with managed services that could compete with our implementation and advisory offerings. We should monitor if this center specifically targets AI-agent security use cases to assess displacement risk in the services market.
-- **Source:** Veloxx media — https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGtJNEtreXU5Q0NSOTMxN1BteW5FQ1NJTUlVcnZoR21HNnpuZ04xVnFxYnhMTG5ZOHJLU1VSaFNRSTBZWDNmbjN2WXlqM3pEUUNXQ19ERmlYNVhKX045V3R2aXZPcDR0R3NYa0pyR29uZDdoclhSNUctSnU3TDZQV3dGTFRmaTA2N2xmcDRveUVxMzFlc2g4QTktYi03djBueUgxWFlPVGM4RG8xOXNYZENXRHdBTUFP?oc=5
+### CrowdStrike — Publishes AI-Related Vulnerability Response Content (Java4Shell, NGINX2Root)
+- **What changed:** CrowdStrike published two blog posts on Nov 19 detailing their detection and protection capabilities for "Java4Shell" (CVE-2026-114938) and "NGINX2Root" (CVE-2026-123007), framing these as threats relevant to the AI ecosystem.
+- **Why it matters:** By associating standard infrastructure vulnerabilities with AI security, CrowdStrike is broadening the definition of "AI risk" to include the underlying infrastructure. This could lead customers to believe that their existing EDR coverage is sufficient for AI security, potentially reducing the perceived need for specialized AI-SPM tools that focus on data access and agent permissions rather than just exploit detection.
+- **Source:** CrowdStrike Blog — https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/
+- **Confidence:** high
+
+### HiddenLayer — Raises $100M Series B for AI Security
+- **What changed:** HiddenLayer announced a $100M Series B funding round to enhance its AI security offerings (reported Sept 2, 2026).
+- **Why it matters:** While this is a September event, it remains a significant signal of capital influx into the AI security space. HiddenLayer focuses on AI model security and runtime protection. Their increased funding allows for aggressive go-to-market efforts that may overlap with our target accounts. We must ensure our messaging clearly distinguishes between *model* security (HiddenLayer) and *data/agent* security (Varonis) to avoid being lumped into a generic "AI security" category where we may not have the deepest technical moat.
+- **Source:** Crypto Briefing — https://news.google.com/rss/articles/CBMic0FVX3lxTE5JZDd3MlNhVFBMa0dZZ1ZTYkxUZHJYZmxnSFpkX1JnNnllVEptYkxYVFNUN1hJNnI1WDVCOXFwYzk5Vk1XSS1xYmN1Ti14bnMxTVg3a0ZzZUlrb2dfV0xuOTZTTFByU2hmRUpKS25WZExtUWc?oc=5
 - **Confidence:** medium
-
-### Cyera — Content Marketing on AI Agent Access Trails
-- **What changed:** Cyera published a blog post targeting financial institutions, discussing how to build data trails for GDPR, audits, and specifically "AI agent access."
-- **Why it matters:** This confirms Cyera is actively positioning their data security platform as a solution for AI agent governance and compliance. They are directly targeting the same "sensitive data access" wedge we own, but framing it through a compliance/audit lens rather than security enforcement. We need to ensure our messaging differentiates between passive data trails (Cyera) and active least-privilege enforcement (Varonis) to prevent commoditization of the AI-agent visibility category.
-- **Source:** Cyera Blog — https://www.cyera.com/blog/show-your-work-every-transaction-has-a-trail
-- **Confidence:** high
 
 _Generated by the unattended AI-SPM monitor on Riker._
