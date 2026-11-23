@@ -1,26 +1,16 @@
-# AI-SPM Competitor Digest — 2026-11-20
+# AI-SPM Competitor Digest — 2026-11-23
 
 ## Top of the day
-CrowdStrike is aggressively expanding its "AI Security" brand through new delivery centers and vulnerability response content, signaling a push to bundle AI-specific protections into its broader endpoint and cloud security suite. This increases the risk of displacement in enterprise deals where CrowdStrike is already the primary EDR provider, as they attempt to own the "AI security" narrative before specialized agents like ours can establish distinct value in agent blast-radius visibility.
+No material new developments in AI-SPM or agent-security vendor strategy were identified in today's feed; the most recent relevant signal remains Onyx Security's July 2026 funding round, which continues to validate the "agent control" category we are defining.
 
 ## Events
 
-### CrowdStrike — Launches AI Security Centre with Hitachi Systems India
-- **What changed:** CrowdStrike and Hitachi Systems India announced the launch of an "AI Security Centre" and an advanced global delivery center focused on AI security services (reported Nov 17).
-- **Why it matters:** This move signals CrowdStrike’s intent to productize and serviceize AI security, potentially bundling it with their existing Falcon platform. For Varonis, this raises the bar for differentiation; we must emphasize that CrowdStrike’s approach is likely focused on model integrity and endpoint behavior, whereas our wedge is specifically into *data* visibility and least-privilege enforcement for AI agents accessing sensitive data.
-- **Source:** Rediff MoneyWiz — https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjNkZmNhSHRnZW5xUjdweU1mYXVRVHBkc1VFTGNQS0llb2hPZG11N3pvcG9GYm5oRW9wRWI2LXFwMWhqT0UtbFhOTGFrUmsxTnZ4TkFzd3FBMDM1cXBieHAtM3ZKTzF2M1pjZ2ZHZkJRcXd4LWlxUmw4QUhsRHZqNmQ0V2Q4aVp2UHVSTS15VzlaN2RMY3RILWVXeVlTZGJsZ1h1ZGpteUxuQkhRNjFteNIBtgFBVV95cUxOSXN3YmdCTkRpMVF5NHRqekN4QXNlM19WMmNnQmJaNGgyc0FOQ1g4MmlUSGhFNTZnVTRMLWVQMUl5dk1hdjE5dF90bDcyR1U4ckFWTVlUc2pmTFZxYy04SkRYVzdCOHdLaDllbHk0bmJ5bnNTdjU0NktSd2VxaENESHFHSmpSbHR6SGVTYl82RFZ0MEpXYU5YUlRDUm00SDE2SDFyc2I5aG96MVRZQ0h0bU9Uei1RQQ?oc=5
+### Onyx Security — Raises $113M to control AI agents in enterprise
+- **What changed:** Onyx Security closed an $113M funding round to build tools specifically for controlling and securing AI agents within enterprise environments.
+- **Why it matters:** This is a direct signal that the "agent blast-radius" wedge is becoming a funded, standalone category. While Onyx focuses on control, our visibility into sensitive data access by these agents remains a distinct and complementary value proposition that we must emphasize to prevent displacement in deals where customers view "agent security" as a single line item.
+- **Source:** Crypto Briefing — https://news.google.com/rss/articles/CBMidkFVX3lxTE9MUmtDN1FrTFFibW13eElHalZrY0dlcGpkb0FqTldsRTBZaVU4ck83WkFHZ0M0MXNjM3dSaHZ2XzJwWmg4cTk4eF9sbzlsRm5tNkxObnJWSkpDeF9IZzhlUEpJUEJwZ3g5RmJYdDZkSGdQSy1HeGc?oc=5
 - **Confidence:** high
 
-### CrowdStrike — Publishes AI-Related Vulnerability Response Content (Java4Shell, NGINX2Root)
-- **What changed:** CrowdStrike published two blog posts on Nov 19 detailing their detection and protection capabilities for "Java4Shell" (CVE-2026-114938) and "NGINX2Root" (CVE-2026-123007), framing these as threats relevant to the AI ecosystem.
-- **Why it matters:** By associating standard infrastructure vulnerabilities with AI security, CrowdStrike is broadening the definition of "AI risk" to include the underlying infrastructure. This could lead customers to believe that their existing EDR coverage is sufficient for AI security, potentially reducing the perceived need for specialized AI-SPM tools that focus on data access and agent permissions rather than just exploit detection.
-- **Source:** CrowdStrike Blog — https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/
-- **Confidence:** high
-
-### HiddenLayer — Raises $100M Series B for AI Security
-- **What changed:** HiddenLayer announced a $100M Series B funding round to enhance its AI security offerings (reported Sept 2, 2026).
-- **Why it matters:** While this is a September event, it remains a significant signal of capital influx into the AI security space. HiddenLayer focuses on AI model security and runtime protection. Their increased funding allows for aggressive go-to-market efforts that may overlap with our target accounts. We must ensure our messaging clearly distinguishes between *model* security (HiddenLayer) and *data/agent* security (Varonis) to avoid being lumped into a generic "AI security" category where we may not have the deepest technical moat.
-- **Source:** Crypto Briefing — https://news.google.com/rss/articles/CBMic0FVX3lxTE5JZDd3MlNhVFBMa0dZZ1ZTYkxUZHJYZmxnSFpkX1JnNnllVEptYkxYVFNUN1hJNnI1WDVCOXFwYzk5Vk1XSS1xYmN1Ti14bnMxTVg3a0ZzZUlrb2dfV0xuOTZTTFByU2hmRUpKS25WZExtUWc?oc=5
-- **Confidence:** medium
+*Note: Other articles provided (SentinelOne, Palo Alto, Cyera, Orca, HiddenLayer, Lakera/Check Point) were omitted as they either predate the current quarter significantly (2023-2025), represent generic marketing/thought leadership without concrete strategic shifts, or are not directly relevant to the AI-SPM/agent-security competitive landscape.*
 
 _Generated by the unattended AI-SPM monitor on Riker._
