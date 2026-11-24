@@ -1,16 +1,32 @@
-# AI-SPM Competitor Digest — 2026-11-23
+# AI-SPM Competitor Digest — 2026-11-24
 
 ## Top of the day
-No material new developments in AI-SPM or agent-security vendor strategy were identified in today's feed; the most recent relevant signal remains Onyx Security's July 2026 funding round, which continues to validate the "agent control" category we are defining.
+Cyera has launched a Private Preview feature for sensitive data visibility within Claude Artifacts, directly challenging our core wedge of agent blast-radius by offering classification and access control for a specific, high-value AI surface. This move signals that data-centric competitors are rapidly converging on the "agent-to-data" visibility layer, forcing us to accelerate our differentiation on automated least-privilege enforcement and broader agent coverage beyond single-platform integrations.
 
 ## Events
 
-### Onyx Security — Raises $113M to control AI agents in enterprise
-- **What changed:** Onyx Security closed an $113M funding round to build tools specifically for controlling and securing AI agents within enterprise environments.
-- **Why it matters:** This is a direct signal that the "agent blast-radius" wedge is becoming a funded, standalone category. While Onyx focuses on control, our visibility into sensitive data access by these agents remains a distinct and complementary value proposition that we must emphasize to prevent displacement in deals where customers view "agent security" as a single line item.
-- **Source:** Crypto Briefing — https://news.google.com/rss/articles/CBMidkFVX3lxTE9MUmtDN1FrTFFibW13eElHalZrY0dlcGpkb0FqTldsRTBZaVU4ck83WkFHZ0M0MXNjM3dSaHZ2XzJwWmg4cTk4eF9sbzlsRm5tNkxObnJWSkpDeF9IZzhlUEpJUEJwZ3g5RmJYdDZkSGdQSy1HeGc?oc=5
+### Cyera — Sensitive Data Visibility for Claude Artifacts
+- **What changed:** Cyera announced a Private Preview capability that classifies supported Claude Artifacts and displays who can access them, extending their data security platform into the AI agent interaction layer.
+- **Why it matters:** This directly targets our "agent blast-radius" positioning by providing visibility into sensitive data exposed via AI artifacts. While it focuses on a specific platform (Claude), it validates the market demand for data-centric AI security and may allow Cyera to bundle this with their existing data discovery tools, potentially displacing us in deals where the primary concern is data classification rather than comprehensive agent privilege management.
+- **Source:** Cyera Blog — https://www.cyera.com/blog/cyera-brings-sensitive-data-visibility-to-claude-artifacts
 - **Confidence:** high
 
-*Note: Other articles provided (SentinelOne, Palo Alto, Cyera, Orca, HiddenLayer, Lakera/Check Point) were omitted as they either predate the current quarter significantly (2023-2025), represent generic marketing/thought leadership without concrete strategic shifts, or are not directly relevant to the AI-SPM/agent-security competitive landscape.*
+### Palo Alto Networks — Prisma AIRS AI Supply Chain Security Launch
+- **What changed:** Palo Alto Networks introduced Prisma AIRS AI Supply Chain Security, a new offering focused on securing the AI supply chain.
+- **Why it matters:** While supply chain security is distinct from agent blast-radius, Palo Alto’s aggressive expansion into the AI security space (Prisma AIRS) continues to blur the lines between traditional security platforms and AI-specific tools. Their ability to bundle AI security with their broader platform could create displacement risk in enterprise deals where customers prefer a single-vendor solution, even if our agent-specific depth is superior.
+- **Source:** Palo Alto Networks — https://news.google.com/rss/articles/CBMioAFBVV95cUxOdG9TVjdxdmFHcENVa2VfMmcxOXpFajNkbjB1N2lCQnI5b212S1pvMXJNN3VvcVoteDBLcW5TMDgzNHR2NGpjb1BNeWtFenVoZVNNMmRzYTNDRms4ZUJ4RGx4bEM1QlJPbUpwTDZJZ29XWGhQZDdpNWhSSHB6RVh2UURLUlg5ZWlsQzN5UGJHUjZ3SVFXdERqV2t0anM3dzFZ?oc=5
+- **Confidence:** high
+
+### Proofpoint — Gartner Pace Setter Recognition for AI Application Security
+- **What changed:** Proofpoint was named a Pace Setter in the Gartner Emerging Market Quadrant for AI Application Security (Established Vendors) as of September 2026.
+- **Why it matters:** As our pending acquirer, Proofpoint’s continued market validation in AI security strengthens the strategic rationale for the acquisition. However, until the deal closes, this recognition enhances their competitive positioning against us in active deals, potentially allowing them to leverage Gartner’s endorsement to counter our agent-specific pitch with their broader "unified agentic system" narrative.
+- **Source:** Proofpoint — https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlE2Ni1pWTc5Vm05TXBzVm05Ykt0TXlTQmxlSkZxandFU2M2SUsyTl84ZVRmRkxIUXMxdHU0T1lBRVFoVmEtXzdUZXlvZXJ6a2VBVDZxeFBVVjBseTlLVWVJMm53a21OZzZuQzRxRzdEbHRMY0dmS2tZbU1zbDUzQ1FLSTUzc1JPdkxIWWwtdkVWTG84WFpVOXRxLWowWHpjaGoxUm5PRGpELVN3RlE4X0VLQklvaXVKQ3hoVVV1MnlLMThsc013dw?oc=5
+- **Confidence:** high
+
+### Onyx Security — $113M Series B Funding
+- **What changed:** Onyx Security raised a $113M Series B at a $640M valuation, led by Bessemer Venture Partners, to expand its platform for safeguarding AI agents.
+- **Why it matters:** This significant capital injection allows Onyx to accelerate product development and go-to-market efforts in the agent security space. While they focus on "keeping humans in control," their funding scale enables them to compete more aggressively for enterprise attention, potentially increasing the noise in the market and forcing us to justify our premium positioning on data-specific blast radius versus their broader agent control narrative.
+- **Source:** Axios — https://news.google.com/rss/articles/CBMipgFBVV95cUxQZmYyNFdZNlFKTHZUZ01ZeHNwVFN3c2pQSE5jYUlXNC11WmRsYmh3Z0t6eUJqeWxMY002bXlvcDVoM2VFXzRlTGZRcEh3OEVQTlFoN0ZLam4ydUV0RmVRb1l2X2t2WWxNSm1xeldKcDhHSkZiYkg4LUFmX05QRHZsdngwdWdvNF9QME1PaW1rWHVBZ3ZwOEFUSFJQQnRGWk5oOWpXZVBB?oc=5
+- **Confidence:** high
 
 _Generated by the unattended AI-SPM monitor on Riker._
