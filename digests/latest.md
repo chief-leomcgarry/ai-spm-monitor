@@ -1,32 +1,50 @@
-# AI-SPM Competitor Digest — 2026-11-24
+# AI-SPM Competitor Digest — 2026-11-25
 
 ## Top of the day
-Cyera has launched a Private Preview feature for sensitive data visibility within Claude Artifacts, directly challenging our core wedge of agent blast-radius by offering classification and access control for a specific, high-value AI surface. This move signals that data-centric competitors are rapidly converging on the "agent-to-data" visibility layer, forcing us to accelerate our differentiation on automated least-privilege enforcement and broader agent coverage beyond single-platform integrations.
+CrowdStrike’s strategic partnership with Zscaler to create a "single kill switch" for rogue AI agents represents a significant consolidation of the agent-security market, directly challenging Varonis’s wedge of granular data-access visibility by offering a broader, network-level enforcement mechanism that may simplify procurement for Fortune 500 clients.
 
 ## Events
 
-### Cyera — Sensitive Data Visibility for Claude Artifacts
-- **What changed:** Cyera announced a Private Preview capability that classifies supported Claude Artifacts and displays who can access them, extending their data security platform into the AI agent interaction layer.
-- **Why it matters:** This directly targets our "agent blast-radius" positioning by providing visibility into sensitive data exposed via AI artifacts. While it focuses on a specific platform (Claude), it validates the market demand for data-centric AI security and may allow Cyera to bundle this with their existing data discovery tools, potentially displacing us in deals where the primary concern is data classification rather than comprehensive agent privilege management.
-- **Source:** Cyera Blog — https://www.cyera.com/blog/cyera-brings-sensitive-data-visibility-to-claude-artifacts
+### CrowdStrike — Partners with Zscaler to offer unified control for rogue AI agents
+- **What changed:** CrowdStrike and Zscaler have announced a deal to provide security teams with a "single kill switch" for rogue AI agents, integrating CrowdStrike’s endpoint/identity visibility with Zscaler’s network traffic control.
+- **Why it matters:** This move positions CrowdStrike to displace point solutions by offering a consolidated enforcement layer. For Varonis, this raises the bar for our pitch: we must emphasize that a "kill switch" (network/endpoint) does not equal *data* visibility. Our wedge remains critical because CrowdStrike/Zscaler can stop an agent, but they may not fully map *which sensitive data* the agent accessed prior to the kill, leaving a compliance and forensic gap that Varonis fills.
+- **Source:** VentureBeat — https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVV1M3pEZnZPOUxyVkxvbXFVMGdPOVBncjVsMEM0UWdiS3U1NmZOdm5pdXgwQmNHNDMzQjg0SlNBQXlsOFFoX3U0bk5aTkdGVnZuaUZaM29sblhzS1ViSzJpUklMZ2NORHR5bTF4Z3NhZWRNcDFsSjR1X2ZWaW0xRnhqczVWNTBORnZrNzNlUmJ0SzRsVHRhTHQxQ1E0NjJzUGg5cWVUQTRhTmFadG4zNzRKYzZlbVBIak9PeVhiRS1rRjVyMnc?oc=5
 - **Confidence:** high
 
-### Palo Alto Networks — Prisma AIRS AI Supply Chain Security Launch
-- **What changed:** Palo Alto Networks introduced Prisma AIRS AI Supply Chain Security, a new offering focused on securing the AI supply chain.
-- **Why it matters:** While supply chain security is distinct from agent blast-radius, Palo Alto’s aggressive expansion into the AI security space (Prisma AIRS) continues to blur the lines between traditional security platforms and AI-specific tools. Their ability to bundle AI security with their broader platform could create displacement risk in enterprise deals where customers prefer a single-vendor solution, even if our agent-specific depth is superior.
-- **Source:** Palo Alto Networks — https://news.google.com/rss/articles/CBMioAFBVV95cUxOdG9TVjdxdmFHcENVa2VfMmcxOXpFajNkbjB1N2lCQnI5b212S1pvMXJNN3VvcVoteDBLcW5TMDgzNHR2NGpjb1BNeWtFenVoZVNNMmRzYTNDRms4ZUJ4RGx4bEM1QlJPbUpwTDZJZ29XWGhQZDdpNWhSSHB6RVh2UURLUlg5ZWlsQzN5UGJHUjZ3SVFXdERqV2t0anM3dzFZ?oc=5
+### CrowdStrike — CEO highlights "brakes to gas" shift as Fortune 50 clients pause AI rollouts
+- **What changed:** CrowdStrike’s CEO stated that security has shifted from being a "brake" to a "gas pedal" for AI adoption, noting that Fortune 50 clients are pausing AI rollouts due to security concerns.
+- **Why it matters:** This validates our core value proposition: enterprises are stalled on AI adoption because they lack visibility into agent blast radius. While CrowdStrike frames this as a need for their platform, it creates an opening for Varonis to position ourselves as the specific enabler that resolves the "blast radius" uncertainty, allowing clients to resume rollouts with confidence in data governance.
+- **Source:** TIKR.com — https://news.google.com/rss/articles/CBMiggJBVV95cUxQLXNXajdvSm5JLU15REhzdllGVEFadnNZT3pQXzk0YTNuMEo2UHdwVVBlT2VTZUNaUUJ6ZGxxUEpEeW4wSnBXRTExX3JMUGRhdnFyWUFHWEpmYWpJRTljd2FXSm9GMXhsV3RySWM4X1VSMmdjRmpLYTBmdTVrRGlib01ON2ljLVRaVlh4Z19fQlJ6RHNuSjRSdVdvSk54aWhHRkVnNW0tWTVaakhURmE3MXRKMVBqM1lIUlNqM09TM1Y0c0FHZ256Qk9CZWFVbW95TzAtbndwZ1ZBZTJUZHN0YTM2M0lkOGFVa3hQV1VLX0J1VkJCalVrSFNTX1hUSHBSbkE?oc=5
 - **Confidence:** high
 
-### Proofpoint — Gartner Pace Setter Recognition for AI Application Security
-- **What changed:** Proofpoint was named a Pace Setter in the Gartner Emerging Market Quadrant for AI Application Security (Established Vendors) as of September 2026.
-- **Why it matters:** As our pending acquirer, Proofpoint’s continued market validation in AI security strengthens the strategic rationale for the acquisition. However, until the deal closes, this recognition enhances their competitive positioning against us in active deals, potentially allowing them to leverage Gartner’s endorsement to counter our agent-specific pitch with their broader "unified agentic system" narrative.
-- **Source:** Proofpoint — https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlE2Ni1pWTc5Vm05TXBzVm05Ykt0TXlTQmxlSkZxandFU2M2SUsyTl84ZVRmRkxIUXMxdHU0T1lBRVFoVmEtXzdUZXlvZXJ6a2VBVDZxeFBVVjBseTlLVWVJMm53a21OZzZuQzRxRzdEbHRMY0dmS2tZbU1zbDUzQ1FLSTUzc1JPdkxIWWwtdkVWTG84WFpVOXRxLWowWHpjaGoxUm5PRGpELVN3RlE4X0VLQklvaXVKQ3hoVVV1MnlLMThsc013dw?oc=5
+### Noma Security — Expands cloud hosting to Australia and Singapore
+- **What changed:** Noma Security has expanded its cloud hosting capabilities to Australia and Singapore to serve Asia-Pacific enterprises.
+- **Why it matters:** Noma is a direct competitor in the AI-agent visibility and access governance space. Their expansion into APAC suggests they are targeting regional data residency requirements, which could impact our ability to win deals in APAC where local data sovereignty is a primary procurement driver. We must ensure our regional data hosting options are clearly communicated in APAC pitches.
+- **Source:** PR Newswire — https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYTRYTlNncldFMlRITGxnSDk1MFZUdDFoaERSTGpteDhieXlkOFdNdFRXWEhwQWhNUUdrSWh1WVhDeExlcWEtWGVNLXIyQXozRVZMYVlleDk3b2lFaVRBRWFvZDFlU3dfUnY3UXl2UTg0Y1NpaS1MVWZHWDBBTE9kMnNvc21xWGlHYkI5UXFnNVJyQUhLVVYxRHJEZ3hxam5KRVVJV1pMUVJxei0wMVdXWm1Rbnd3QUllSEFST2gwM2VJcEtsOXFjdl8zb3AyZFpzaE1vbw?oc=5
 - **Confidence:** high
 
-### Onyx Security — $113M Series B Funding
-- **What changed:** Onyx Security raised a $113M Series B at a $640M valuation, led by Bessemer Venture Partners, to expand its platform for safeguarding AI agents.
-- **Why it matters:** This significant capital injection allows Onyx to accelerate product development and go-to-market efforts in the agent security space. While they focus on "keeping humans in control," their funding scale enables them to compete more aggressively for enterprise attention, potentially increasing the noise in the market and forcing us to justify our premium positioning on data-specific blast radius versus their broader agent control narrative.
-- **Source:** Axios — https://news.google.com/rss/articles/CBMipgFBVV95cUxQZmYyNFdZNlFKTHZUZ01ZeHNwVFN3c2pQSE5jYUlXNC11WmRsYmh3Z0t6eUJqeWxMY002bXlvcDVoM2VFXzRlTGZRcEh3OEVQTlFoN0ZLam4ydUV0RmVRb1l2X2t2WWxNSm1xeldKcDhHSkZiYkg4LUFmX05QRHZsdngwdWdvNF9QME1PaW1rWHVBZ3ZwOEFUSFJQQnRGWk5oOWpXZVBB?oc=5
+### Snyk — Launches Agent Security Solution and GA of Evo AI-SPM
+- **What changed:** Snyk has launched a new Agent Security Solution and announced the General Availability of Evo AI-SPM, focusing on protecting the full AI lifecycle.
+- **Why it matters:** Snyk is leveraging its developer-first footprint to push AI-SPM into the software development lifecycle. This is a displacement risk for deals where security is embedded in the DevSecOps pipeline rather than the enterprise data layer. We need to reinforce that our approach covers *runtime* data access and *enterprise* data sprawl, which Snyk’s developer-centric tooling may not fully address for non-developer AI agents.
+- **Source:** Snyk — https://news.google.com/rss/articles/CBMia0FVX3lxTFBTXzItbXVoOGV6VXRfOFlyRlIzRXE3dFdGMFctV21NcXVtTERRTlIzSTlieGJVdTl3Q0E4UlUxa0RCWGpRQWhfZk02RHA1RUxIc1paaEpXRXlYQVVLblpNdjFUcm9Xek9GTUdV?oc=5
+- **Confidence:** high
+
+### Palo Alto Networks — Acquires Portkey to expand Prisma AIRS
+- **What changed:** Palo Alto Networks acquired Portkey to expand its Prisma AIRS AI Security Platform, enhancing its ability to manage AI traffic and security.
+- **Why it matters:** This acquisition strengthens PANW’s position as a platform player in AI security. While Portkey focuses on AI gateway/traffic management, it complements PANW’s broader security stack. This increases the "platform" pressure on point solutions like Varonis. We must continue to differentiate by highlighting our deep data-centric visibility (what data is accessed) versus PANW’s network/traffic-centric visibility (where traffic goes).
+- **Source:** GovCon Wire — https://news.google.com/rss/articles/CBMijwFBVV95cUxQWEF6d3dxNm1STXAwNXc0ZVA2Yy13RGRsUFNGTlJDS0RMa3dWY0VidVltTERGUHNnZEp2TDIxWmZkSmpJYl9iXy1Wb3c4c1lnY2FicjlEb2dnTVlpczZSRWFZVk12S2psR0N4MUZETFVWbkh5dG0tdkhLV3lndFJyVWhDSlliRjBXNUdYQzFldw?oc=5
+- **Confidence:** high
+
+### HiddenLayer — Announces $100M Series B
+- **What changed:** HiddenLayer has announced a $100M Series B funding round, citing a surge in the AI security market.
+- **Why it matters:** While HiddenLayer focuses on AI model security (adversarial attacks, model integrity), this massive funding round signals investor confidence in the AI security category. It may lead to aggressive marketing and potential bundling with other security vendors, increasing the noise in the market. We should monitor if HiddenLayer expands into data-access visibility, though their current focus is distinct from our agent blast-radius wedge.
+- **Source:** AI Insider — https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFRnVk5Cdm1lMUZzOTdZbElha2YtNTZESDdidkJhWXdXZVgzX1g2ZWFHVjdKTkpMMXhSa081LWxURWVsWnhiMHRCQnFFRE5IRlJoTGZsbkZxTW93bnBWLWN0X2cxbWg1eTNtSkpMcHl3eUliRFltempJc2pMSnVqQTh2SHZnQzBaSTdyLVNaZGZLUmw5NDVSdG1nbjlmWjE2VUNUdg?oc=5
+- **Confidence:** high
+
+### Check Point — Acquires Lakera to boost Agentic AI Security
+- **What changed:** Check Point has acquired Lakera to enhance its agentic AI security capabilities, focusing on protecting AI agents from prompt injection and other threats.
+- **Why it matters:** Check Point is a major platform competitor. By acquiring Lakera, they are moving into the specific "agentic" security space. This could lead to competitive pressure in deals where Check Point is the primary security vendor. We must emphasize that Lakera’s focus is on *prompt* security, whereas Varonis focuses on *data* security and *access* governance, which are complementary but distinct layers.
+- **Source:** CRN — https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0ZYcC10TXRhWTBiSmNIQjl6R0ZBVlM3Y0ZLWGZrZU96YU1CVGM4aEVDbVdfczhHXzlwWF90Y1JteUZNZXRQQ0pjb0xDS3JxM0ZjX0ZMTE5IaGJweUxnbms4alVWZDZ6QU9xQzZZUm5vSzZSY2lKWUxHb19KLXZZLUt5cWcxRWFYRHo0TUgxUnh3NmpvV193RDNoLUZ4aEJOeXlOcVBQMUtPR2h0VjBXdjBIZWJhUGg1ZVE?oc=5
 - **Confidence:** high
 
 _Generated by the unattended AI-SPM monitor on Riker._
