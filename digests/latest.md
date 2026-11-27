@@ -1,38 +1,32 @@
-# AI-SPM Competitor Digest — 2026-11-26
+# AI-SPM Competitor Digest — 2026-11-27
 
 ## Top of the day
-Palo Alto Networks is aggressively positioning its identity and AI security stack to address the "urgent" need to secure AI agents accessing sensitive data, directly challenging Varonis's core wedge of agent blast-radius visibility and least-privilege enforcement.
+CrowdStrike’s expansion of its AI agent security footprint via a new delivery center in India signals a push to operationalize "Project QuiltWorks" for frontier AI risk, directly challenging our ability to offer comprehensive, data-centric blast-radius visibility to global enterprises.
 
 ## Events
 
-### Palo Alto Networks — Positioning Identity Security as Critical for AI Agent Access
-- **What changed:** Palo Alto Networks published a blog post arguing that as organizations deploy AI agents, they are granting more identities access to sensitive information and critical systems, making identity security urgent.
-- **Why it matters:** This directly targets our core value proposition. By framing AI agent security as an identity problem, PAN is attempting to displace Varonis in deals where we sell agent visibility and data access controls. We must counter this by emphasizing that identity alone is insufficient without visibility into *what* data the agent can actually reach (blast radius) and automated enforcement of least privilege on that data.
-- **Source:** Palo Alto Networks Blog — https://www.paloaltonetworks.com/blog/2026/11/why-ai-makes-identity-security-urgent/
+### CrowdStrike — Launches Advanced Global Delivery Centre to support Project QuiltWorks
+- **What changed:** Hitachi Systems India has launched an Advanced Global Delivery Centre in partnership with CrowdStrike, specifically joining "Project QuiltWorks" to help organizations protect against frontier AI risk.
+- **Why it matters:** This move indicates CrowdStrike is scaling its delivery and integration capabilities for AI security, potentially allowing them to bundle endpoint-based agent monitoring with broader AI risk management services. This could pressure our deals where customers seek a single vendor for both endpoint security and AI data governance, forcing us to emphasize our unique depth in sensitive data access and least-privilege enforcement for agents.
+- **Source:** hrtoday.in — https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVnNBV0FDZ0NHcTczYVNEUjNxOXg0SkRzb1FMcGRzQlVKT3lXa3BHOHdYeEZKcHFELVdRNGZjQVg5dERXMURzZXNBLThhNmNCcmozYTF5RURvbGw1elJQSW1OWFRGLVFsWUZjSkRaRlNyZHNRbVk3VmRKWkswd0lObnpUTUNRNlQwemxDbEx4WWFjTUVqMTR5QTFheWwycF9mdE9uOEdfVzVBUUQxWXVIcUtobXppNllCUUdFT1BtVjJZOHhRcFc2X3JscHlUUklQaW0tWXZJRGdBMzAzM1JGbnJoSWcxcThIem9aUmd6cWVBTWVfSzFfRnQ2ckVMTnAxaVY5TGotTnNVeTA?oc=5
 - **Confidence:** high
 
-### CrowdStrike — Accelerating Shift to Agentic SOC
-- **What changed:** CrowdStrike published content highlighting their leadership in the Gartner MQ for ISOC and promoting their strategy for securing employee AI use through a "unified architecture."
-- **Why it matters:** CrowdStrike is leveraging its endpoint dominance to bundle AI security into its broader SOC narrative. While they focus on the "unified architecture" for employee AI use, this creates a displacement risk for standalone AI-SPM tools. We need to ensure our pitch clearly differentiates Varonis's deep data-centric agent visibility from CrowdStrike's endpoint-centric approach, especially in deals where CrowdStrike is the primary security vendor.
-- **Source:** CrowdStrike Blog — https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/
+### SentinelOne — Integrates with Anthropic’s Claude to extend AI security coverage
+- **What changed:** SentinelOne has announced an integration with Anthropic’s Claude to extend its AI security coverage, likely leveraging the LLM for enhanced threat detection or response capabilities.
+- **Why it matters:** While this focuses on using AI for security operations rather than securing AI agents themselves, it reinforces SentinelOne’s narrative of being an "AI-native" security platform. This could blur the lines in customer minds between "securing AI" and "using AI to secure," potentially displacing our pitch if we do not clearly distinguish our focus on agent blast-radius and data privacy from their AI-powered SOC capabilities.
+- **Source:** Crypto Briefing — https://news.google.com/rss/articles/CBMigAFBVV95cUxObEVHNUtJMWdfaVYyMEhLZFRyejN5dEkwU2Z4c1EyT2VOV2E4MDNZS1hVSGRxLXBPUHlPaU44RUlzNmQyS0VTOHVGUWZfR2s1TFVhc3JiN19XOXg5VEZ3VzhLSE9tTE11cnJaNVd0VmZXNjZ0Q1piOGJSanZMZUFYRg?oc=5
 - **Confidence:** high
 
-### SentinelOne — AI Security ARR Triples Amid Restructuring
-- **What changed:** SentinelOne reported that its AI security ARR has tripled, despite a $24.4 million restructuring charge impacting profits.
-- **Why it matters:** The tripling of ARR indicates strong market traction for AI security solutions, validating the category. However, SentinelOne's focus is often on infrastructure and runtime security. We should monitor whether their AI-SPM offering is gaining traction in data-centric use cases where Varonis holds a lead. This financial signal suggests competitors are investing heavily in this space, increasing competitive pressure on our growth targets.
-- **Source:** CTech — https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fZFdVbE5mUlFLVzE1M2ZTY2s3emRLS3dpSnhVTVJZUUQ3VjBSRXBxZ3hpVUltU3FBcElDWGkyVGp3N3NKWURtdm9zenViSnRGRlJkWUVSNE0ydHd4T3o5MHpEV1NpNWpn?oc=5
+### Proofpoint — Introduces Semantic Business Policies and Agentic Insights
+- **What changed:** Proofpoint has introduced "Semantic Business Policies" and "Agentic Insights" as part of its strategy to operationalize security for the agentic era.
+- **Why it matters:** As our pending acquirer, Proofpoint is actively developing its own agentic security narrative. This is critical for our internal alignment as we prepare for the close; we must ensure our agent blast-radius technology is positioned as the core data-security engine within Proofpoint’s broader "Semantic Business Policies" framework, rather than being overshadowed by their email-centric agentic features.
+- **Source:** Proofpoint — https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkYxc3cyem5JbGhMdzZMY1JaN1dBUWxfWW1jUGloazRwR1NVYUtMWG5oV1JYeW9wei1Sd3BrX0kzclVRZTljc1E2d1phc1RSaW9LWWQ3YjBnNjl3QS15UlEzZWZqQTBSYkZReXFDT1lYWF9DZzFHRlNkSVRvQzJJRG85XzgzVWRfUklaRA?oc=5
 - **Confidence:** high
 
-### HiddenLayer — Raises $100M Series B for Trustworthy AI
-- **What changed:** HiddenLayer raised a $100M Series B to advance trustworthy AI.
-- **Why it matters:** HiddenLayer is a direct competitor in the AI security space, focusing on model security and trust. A large funding round allows them to expand their sales and marketing efforts aggressively. We need to be aware of their potential to bundle or cross-sell into AI-SPM deals, particularly if they are expanding their scope to include data access and agent visibility.
-- **Source:** PR Newswire — https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlZ0VjR0ODlFczNObUNqSjBfYU1rXzk3WnJGVDBta3VCam5wZ2g1OEF2QlZLekpXQmxiOUpUeWplYnl5djdKdUtuRW1hUjdMR21YUG1qT3gtQ2NxdTJ2TkpMbVVESVFmVW5CY1FUb0ZBMWdYdHRoNzRxbGF0ZE5ZNkJiaGsyUU83Zk1qWTZnMm9BMGVoeV9EY0ttSFJqT2xpT05aTVhqNkRoWmtDUy15c2paazM?oc=5
-- **Confidence:** high
-
-### Noma Security — Appoints New CFO and Chief Customer Officer
-- **What changed:** Noma Security appointed Bobby Shoker as CFO and Alberto Rodrigues as Chief Customer Officer.
-- **Why it matters:** These leadership hires suggest Noma Security is preparing for a significant growth phase or potential exit. While Noma is primarily known for data security, their expansion into AI-SPM could be accelerated by this new leadership. We should monitor their product roadmap for any new AI agent visibility features that might overlap with our blast-radius offering.
-- **Source:** citybiz — https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeG9LaEJIWWlrbkdHd3F1MnRMVlJLY1AySE12NEJ6UmRPT0h0dEhubEdMLXRCRGxQc2Fadzc0X0lfVTgzeG5fTUlSVWxVUXVUQTZBSWxoVnRyRGt1aVJVMWU3ZERDUW51ZDZyaFczMnhxbmFWY2dBdUh4UTJrSWxPOFlIUW5SNUdxUTAwT1k4b2szNTYza2FiUHJ0czZ3SUlSVUFpWXQ0emdGLTdEdDhyenB6Sk5KcFR1cS1xNExsUGc?oc=5
+### Noma Security — Featured in "7 Top Security Platforms for AI Coding Agents"
+- **What changed:** Noma Security has been included in a list of top security platforms for AI coding agents, highlighting its focus on securing the development lifecycle of AI agents.
+- **Why it matters:** This validates the growing market segment for securing AI agents, specifically in the coding/development space. While Noma focuses on the creation of agents, our wedge is the operational blast-radius and data access of deployed agents. We should monitor Noma’s positioning to ensure we are not perceived as overlapping in the "agent security" category, but rather as complementary or superior in terms of data governance.
+- **Source:** Quasa.io — https://news.google.com/rss/articles/CBMid0FVX3lxTFBYUXl3SEVkVThxdXBta2pHWnIwMkowdVA0MktXWGdXLXpyb21nWjVvZEtTSkRtRXRKZjdzcXNacFJRUE43blVTbWo0N0ttejFIaHo2bjVuT19FdkJNTmpTLWpMRzFtMm1RNmh6b0dqTDFsUGpkLWRR?oc=5
 - **Confidence:** medium
 
 _Generated by the unattended AI-SPM monitor on Riker._
